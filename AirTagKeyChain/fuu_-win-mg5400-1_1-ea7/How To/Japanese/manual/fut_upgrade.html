@@ -1,0 +1,518 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link href="topic_j.css" rel="stylesheet" type="text/css"/>
+<title>アップデート手順</title>
+</head>
+<body class="html_body" id="top">
+<h1 class="head1" id="fut_upgrade_win">
+<span class="stc">アップデート手順</span></h1>
+<div class="body1">
+<div class="body2">
+<h2 class="head2">
+<span class="stc">プリンターアップデートユーティリティの動作環境</span></h2>
+<div class="list2">
+<ul class="list2">
+<div class="list">
+<ul class="list">
+<li class="bullet2" type="disc">
+<p class="step_para">
+<span class="stc">対象OS</span></p>
+</li>
+</ul>
+</div>
+<div class="list">
+<ul class="list">
+<p class="step_para">
+<span class="stc">Windows</span></p>
+<div class="list">
+<p class="step_para">
+<span class="stc">-</span> <span class="stc">Windows 8、Windows 7、Windows Vista、Windows XP</span></p>
+</div>
+<p class="step_para">
+<span class="stc">Mac OS</span></p>
+<div class="list">
+<p class="step_para">
+<span class="stc">-</span> <span class="stc">Mac OS X v10.8、Mac OS X v10.7、Mac OS X v10.6、Mac OS X v10.5.8</span></p>
+</div>
+</ul>
+</div>
+<div class="list">
+<ul class="list">
+<li class="bullet" type="disc">
+<p class="step_para">
+<span class="stc">用意するもの</span></p>
+</li>
+</ul>
+</div>
+<div class="list">
+<ul class="list">
+<div class="list">
+<p class="step_para">
+<span class="stc">-</span> <span class="stc">プリンタードライバーがインストールされているコンピューター</span></p>
+</div>
+<div class="note">
+<img src="images/i_important.gif" alt="重要"/><div class="important_list">
+<ul class="important_list">
+<li class="note_bullet" type="disc">
+<p class="step_para">
+<span class="stc">Windowsをご使用の場合は、プリンタードライバーのプロパティ画面の［ポート］シートで［双方向サポートを有効にする］にチェックマークを付けてください。</span><br/>
+<span class="stc">プロパティ画面の開きかたについては、プリンターに同梱されている電子マニュアル（取扱説明書）を参照してください。</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="list">
+<p class="step_para">
+<span class="stc">-</span> <span class="stc">お使いのプリンター</span></p>
+</div>
+<div class="list">
+<p class="step_para">
+<span class="stc">-</span> <span class="stc">USBケーブル</span></p>
+</div>
+<div class="list">
+<p class="step_para">
+<span class="stc">-</span> <span class="stc">プリンターアップデートユーティリティ</span></p>
+</div>
+</ul>
+</div>
+</ul>
+</div>
+</div>
+<div class="body2">
+<h2 class="head2">
+<span class="stc">アップデートが必要か確認する</span></h2>
+<p class="step_para">
+<span class="stc">アップデートが必要かどうかは、ノズルチェックパターンを印刷して確認することができます。</span></p>
+<p class="step_para">
+<span class="stc">ノズルチェックパターン印刷結果に印刷されたソフトウェア（ファームウェア）バージョン「Ver. X.XXX」を確認し、ファームウェアバージョンがVer. 2.000より前の場合はファームウェアのアップデートが必要です。</span><br/>
+<span class="stc">次の「ファームウェアバージョンアップ方法」に従ってアップデートを行ってください。</span></p>
+<div class="note">
+<img src="images/i_note.gif" alt="参考"/><div class="note_list">
+<ul class="note_list">
+<li class="note_bullet" type="disc">
+<p class="step_para">
+<span class="stc">ノズルチェックパターン印刷については、プリンターに同梱されている電子マニュアル（取扱説明書）を参照してください。</span></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="body2">
+<h2 class="head2">
+<span class="stc">ファームウェアバージョンアップ方法</span></h2>
+<div class="step2">
+<ol type="1">
+<li class="step2" value="1">
+<p class="step1_title">
+<span class="stc">コンピューターと、お使いのプリンターをUSBケーブルで接続</span></p>
+<p class="step_para">
+<span class="stc">プリンターにLANケーブルやカメラ接続のUSBケーブルを接続している場合、すべて抜きます。</span></p>
+<p class="step_para">
+<span class="stc">カードスロット対応機種では、カードスロットにカードが挿入されている場合はすべて抜きます。</span></p>
+<div class="note">
+<img src="images/i_note.gif" alt="参考"/><div class="note_list">
+<ul class="note_list">
+<li class="note_bullet" type="disc">
+<p class="step_para">
+<span class="stc">コンピューターとUSBケーブルで接続するプリンターは、1台のみにしてください。</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="note">
+<img src="images/i_important.gif" alt="重要"/><div class="important_list">
+<ul class="important_list">
+<li class="note_bullet" type="disc">
+<p class="step_para">
+<span class="stc">Mac OSをご使用の場合は、コンピューターがスリープしない設定になっていることをご確認ください。</span></p>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="step2" value="2">
+<p class="step1_title">
+<span class="stc">Windowsの場合は、<img src="images/image_exeicon.gif" class="inline_image" alt=""/>（Printer Update.exe）をダブルクリックして、アップデートユーティリティを起動</span></p>
+<p class="step1_title">
+<span class="stc">Mac OSの場合は、<img src="images/image_exeicon.gif" class="inline_image" alt=""/>（プリンターアップデート）をダブルクリックして、アップデートユーティリティを起動</span></p>
+</li>
+<li class="step2" value="3">
+<p class="step1_title">
+<span class="stc">プリンターアップデートユーティリティ上に表示されている［Step 1］の内容を確認し、プリンターの電源を入れて［次へ］をクリック</span></p>
+<div class="note">
+<img src="images/i_note.gif" alt="参考"/><div class="note_list">
+<ul class="note_list">
+<li class="note_bullet" type="disc">
+<p class="step_para">
+<span class="stc">エラーメッセージが表示された場合、以下の原因が考えられます。</span></p>
+<div class="list">
+<ul class="list">
+<li class="bullet" type="disc">
+<p class="step_para">
+<span class="stc">原因（1）USBケーブルが接続されていない。</span><br/>
+<span class="stc">対処方法：USBケーブルを接続して、手順1からやり直してください。</span></p>
+</li>
+<li class="bullet" type="disc">
+<p class="step_para">
+<span class="stc">原因（2）アップデートするプリンターとは異なるプリンターのアップデートファイルをダウンロードしている。</span><br/>
+<span class="stc">対処方法：アップデートするプリンターのファイルをダウンロードして、手順1からやり直してください。</span></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="step2" value="4">
+<p class="step1_title">
+<span class="stc">プリンターアップデートユーティリティ上に表示されている［Step 2］の内容を確認して、［開始］をクリック</span></p>
+<div class="">
+<img src="images/step2.gif" class="fig_image" alt=""/>
+</div>
+<p class="step_para">
+<span class="stc">*お使いのOSによって、操作画面の表示が異なる場合があります。</span></p>
+<p class="step_para">
+<span class="stc">［プリンター名］：コンピューターに接続されているプリンター名</span></p>
+<p class="step_para">
+<span class="stc">［現在のソフトウェアバージョン］：接続されているプリンターのファームウェアバージョン</span></p>
+<p class="step_para">
+<span class="stc">［アップデート用ソフトウェアのバージョン］：今回アップデートするファームウェアのバージョン</span></p>
+<div class="note">
+<img src="images/i_important.gif" alt="重要"/><div class="important_list">
+<ul class="important_list">
+<li class="note_bullet" type="disc">
+<p class="step_para">
+<span class="stc">アップデートが完了するまで、プリンターの電源を切ったり、USBケーブルを抜いたりしないでください。</span><span class="stc">故障の原因になります。</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="note">
+<img src="images/i_note.gif" alt="参考"/><div class="note_list">
+<ul class="note_list">
+<li class="note_bullet" type="disc">
+<p class="step_para">
+<span class="stc">［開始］をクリックできない場合、ファームウェアの書き換えが必要ないプリンターにアップデートを実行しようとした可能性があります。</span><span class="stc">もう一度［現在のソフトウェアバージョン］を確認して、アップデートの対象バージョンか確認してください。</span><br/>
+<span class="stc">対象でない場合は、アップデートを中止してください。</span></p>
+</li>
+<li class="note_bullet" type="disc">
+<p class="step_para">
+<span class="stc">アップデート中は、プリンターのエラーランプがオレンジ色に点滅します。</span></p>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="step2" value="5">
+<p class="step1_title">
+<span class="stc">プリンターアップデートユーティリティ上に［Step 3］の画面が表示されたら、メッセージの内容を確認して［終了］をクリック</span></p>
+<p class="step_para">
+<span class="stc">以上でファームウェアのバージョンアップは完了です。</span></p>
+<p class="step_para">
+<span class="stc">バージョンアップが完了すると、プリンターの電源は自動で切れます。</span><span class="stc">プリンターを使用する場合は、一度電源ケーブルを抜いて、再度電源を入れてください。</span></p>
+<p class="step_para">
+<span class="stc">プリンターをLAN接続でお使いの場合は、USBケーブルを抜き、LANケーブルを接続してください。</span></p>
+<div class="note">
+<img src="images/i_important.gif" alt="重要"/><div class="important_list">
+<ul class="important_list">
+<li class="note_bullet" type="disc">
+<p class="step_para">
+<span class="stc">プリンターをLAN接続でお使いの場合は、通常使うプリンターの設定をLAN接続に戻してください。</span><br/>
+<span class="stc">Windowsをご使用の場合は、設定をLAN接続に戻すには、プリンターポートの設定でポート名“CNBJNPxxxxxxxxxx”の「Canon XXX Printer」を選ぶ必要があります。</span><br/>
+<span class="stc">設定方法については、プリンターに同梱されている電子マニュアル（取扱説明書）を参照してください。</span><br/></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="note">
+<img src="images/i_note.gif" alt="参考"/><div class="note_list">
+<ul class="note_list">
+<li class="note_bullet" type="disc">
+<p class="step_para">
+<span class="stc">アップデートの途中で電源が落ちた場合などは、アップデートが正常に終了しません。</span><br/>
+<span class="stc">プリンターの電源を切って再度電源を入れてもプリンターが正常に動作しない場合は、アップデートが正常に終了していない可能性があります。</span></p>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div class="body2">
+<h2 class="head2">
+<span class="stc">エラーが表示された場合の原因と対処方法</span></h2>
+<p class="step_para">
+<span class="stc">プリンターアップデートユーティリティの操作中にエラーが見つかると、エラーメッセージが表示されます。</span><br/>
+<span class="stc">エラーメッセージが表示された時は、メッセージの指示に従って操作を行ってください。</span><br/>
+<span class="stc">以下に、主に表示するエラーメッセージの原因と対処方法を記述します。</span></p>
+<div class="table2">
+<table border="2" class="tablegroup_table" width="100%">
+<tr>
+<th align="center" class="table_headCell" colspan="1" id="title01" rowspan="1" width="30%">
+<p class="para">
+<span class="stc">メッセージ</span></p>
+</th>
+<th align="center" class="table_headCell" colspan="1" id="title02" rowspan="1" width="35%">
+<p class="para">
+<span class="stc">原因</span></p>
+</th>
+<th align="center" class="table_headCell" colspan="1" id="title03" rowspan="1" width="35%">
+<p class="para">
+<span class="stc">対処方法</span></p>
+</th>
+</tr>
+<tr>
+<td align="center" class="table_bodyCell" colspan="3" id="title01" rowspan="1"><p class="para">
+<span class="stc">Windowsまたは、Mac OSをお使いの場合</span></p>
+</td>
+</tr>
+<tr>
+<td class="table_bodyCell" colspan="1" headers="title01" rowspan="1">
+<p class="para">
+<span class="stc">本プログラムは、現在お使いのOSには対応していません。</span></p>
+</td>
+<td class="table_bodyCell" colspan="1" headers="title02" rowspan="1">
+<p class="para">
+<span class="stc"><span class="ui Media_DriverLCD">使用対象外のOS上でプリンターアップデートユーティリティを操作しようとした。</span></span></p>
+</td>
+<td class="table_bodyCell" colspan="1" headers="title02" rowspan="1">
+<p class="para">
+<span class="stc"><span class="ui Media_DriverLCD">使用可能なOS環境でプリンターアップデートユーティリティを操作する。</span></span></p>
+</td>
+</tr>
+<tr>
+<td class="table_bodyCell" colspan="1" headers="title02" rowspan="1">
+<p class="para">
+<span class="stc">プリンターが2台以上接続されています。</span></p>
+<p class="para">
+<span class="stc">USBケーブルで接続するプリンターを必ず1台のみにして、ユーティリティを再起動してください。</span></p>
+</td>
+<td class="table_bodyCell" colspan="1" headers="title02" rowspan="1">
+<p class="para">
+<span class="stc">コンピューターにアップデートするプリンターを2台以上接続している。</span></p>
+</td>
+<td class="table_bodyCell" colspan="1" headers="title02" rowspan="1">
+<p class="para">
+<span class="stc">プリンターを1台だけ接続する。</span></p>
+</td>
+</tr>
+<tr>
+<td class="table_bodyCell" colspan="1" headers="title01" rowspan="1">
+<p class="para">
+<span class="stc">プリンターの状態が不正です。</span></p>
+<p class="para">
+<span class="stc">プリンターの電源を入れ直して、ユーティリティを再起動してください。</span></p>
+</td>
+<td class="table_bodyCell" colspan="1" headers="title02" rowspan="1">
+<p class="para">
+<span class="stc">プリンターがアップデートを実行できなかった。</span></p>
+</td>
+<td class="table_bodyCell" colspan="1" headers="title02" rowspan="1">
+<p class="para">
+<span class="stc">プリンターの電源を入れ直す。</span></p>
+</td>
+</tr>
+<tr>
+<td class="table_bodyCell" colspan="1" headers="title02" rowspan="1">
+<p class="para">
+<span class="stc">プリンター機能のアップデート中に、エラーが発生しました。</span></p>
+<p class="para">
+<span class="stc">アップデートに失敗したため、このままではプリンターを使用できません。</span></p>
+<p class="para">
+<span class="stc">プリンターの電源を入れ直して、必ずユーティリティを再起動してください。</span></p>
+</td>
+<td class="table_bodyCell" colspan="1" headers="title02" rowspan="1">
+<p class="para">
+<span class="stc">アップデートの実行中にプリンターの電源を切ったかUSBケーブルを抜いた。</span></p>
+</td>
+<td class="table_bodyCell" colspan="1" headers="title02" rowspan="1">
+<p class="para">
+<span class="stc">［OK］をクリックしてプリンターアップデートユーティリティを終了する。</span><span class="stc">プリンターの電源を一旦切って、数秒後に電源を入れ直す。</span><br/>
+<span class="stc">再度ユーティリティを立ち上げ直して操作する。</span></p>
+<p class="para">
+<span class="stc">もし、プリンターが正常に立ち上がらなかったり、アップデートができなくなった場合は修理が必要になります。</span></p>
+</td>
+</tr>
+<tr>
+<td align="center" class="table_bodyCell" colspan="3" id="title01" rowspan="1"><p class="para">
+<span class="stc">Windowsをお使いの場合</span></p>
+</td>
+</tr>
+<tr>
+<td class="table_bodyCell" colspan="1" headers="title01" rowspan="1">
+<p class="para">
+<span class="stc">プリンターが見つかりません。</span></p>
+<p class="para">
+<span class="stc">次の内容を確認してから、ユーティリティを再起動してください。</span></p>
+<div class="list2">
+<ul class="list2">
+<li class="bullet2" type="disc">
+<p class="para">
+<span class="stc">プリンターとパソコンがUSBケーブルで正しく接続されていることを確認してください。</span></p>
+</li>
+</ul>
+</div>
+<div class="list2">
+<ul class="list2">
+<li class="bullet2" type="disc">
+<p class="para">
+<span class="stc">プリンターの電源がオンになっていることを確認してください。</span></p>
+</li>
+</ul>
+</div>
+</td>
+<td class="table_bodyCell" colspan="1" headers="title01" rowspan="1">
+<div class="list">
+<ol class="list" type="1">
+<li class="step" value="1">
+<p class="para">
+<span class="stc">プリンターとコンピューターをUSBケーブルで接続していない。</span></p>
+</li>
+<li class="step" value="2">
+<p class="para">
+<span class="stc">プリンターの電源が切れている。</span></p>
+</li>
+<li class="step" value="3">
+<p class="para">
+<span class="stc">アップデートするプリンターと異なるユーティリティをダウンロードしている。</span></p>
+</li>
+<li class="step" value="4">
+<p class="para">
+<span class="stc">プリンターが動作中。</span></p>
+</li>
+<li class="step" value="5">
+<p class="para">
+<span class="stc">プリンタードライバーをインストールしていない。</span></p>
+</li>
+</ol>
+</div>
+</td>
+<td class="table_bodyCell" colspan="1" headers="title01" rowspan="1">
+<div class="list">
+<ol class="list" type="1">
+<li class="step" value="1">
+<p class="para">
+<span class="stc">プリンターとコンピューターをUSBケーブルで接続する。</span></p>
+</li>
+<li class="step" value="2">
+<p class="para">
+<span class="stc">プリンターの電源を入れる。</span></p>
+</li>
+<li class="step" value="3">
+<p class="para">
+<span class="stc">アップデートするプリンターのプリンターアップデートユーティリティをダウンロードして、最初からやり直す。</span></p>
+</li>
+<li class="step" value="4">
+<p class="para">
+<span class="stc">プリンターの動作が終了してからユーティリティを操作する。</span></p>
+</li>
+<li class="step" value="5">
+<p class="para">
+<span class="stc">プリンタードライバーをインストールする。</span></p>
+</li>
+</ol>
+</div>
+</td>
+</tr>
+<tr>
+<td align="center" class="table_bodyCell" colspan="3" id="title01" rowspan="1">
+<p class="para">
+<span class="stc">Mac OSをお使いの場合</span></p>
+</td>
+</tr>
+<tr>
+<td class="table_bodyCell" colspan="1" headers="title01" rowspan="1">
+<p class="para">
+<span class="stc">Mac OS X Classicが起動されています。</span><br/>
+<span class="stc">Mac OS X Classicを停止して、ユーティリティを再起動してください。</span></p>
+</td>
+<td class="table_bodyCell" colspan="1" headers="title02" rowspan="1">
+<p class="para">
+<span class="stc"><span class="ui Media_DriverLCD">Mac OS X上でClassicを起動中にプリンターアップデートユーティリティを操作しようとした。</span></span></p>
+</td>
+<td class="table_bodyCell" colspan="1" headers="title02" rowspan="1">
+<p class="para">
+<span class="stc"><span class="ui Media_DriverLCD">Classicを停止し、Mac OS Xからプリンターアップデートユーティリティを操作する。</span></span></p>
+</td>
+</tr>
+<tr>
+<td class="table_bodyCell" colspan="1" headers="title01" rowspan="1">
+<p class="para">
+<span class="stc">プリンターが見つかりません。</span></p>
+<p class="para">
+<span class="stc">次の内容を確認してから、ユーティリティを再起動してください。</span></p>
+<div class="list2">
+<ul class="list2">
+<li class="bullet2" type="disc">
+<p class="para">
+<span class="stc">プリンターとパソコンがUSBケーブルで正しく接続されていることを確認してください。</span></p>
+</li>
+</ul>
+</div>
+<div class="list2">
+<ul class="list2">
+<li class="bullet2" type="disc">
+<p class="para">
+<span class="stc">プリンターの電源がオンになっていることを確認してください。</span></p>
+</li>
+</ul>
+</div>
+</td>
+<td class="table_bodyCell" colspan="1" headers="title01" rowspan="1">
+<div class="list">
+<ol class="list" type="1">
+<li class="step" value="1">
+<p class="para">
+<span class="stc">プリンターとコンピューターをUSBケーブルで接続していない。</span></p>
+</li>
+<li class="step" value="2">
+<p class="para">
+<span class="stc">プリンターの電源が切れている。</span></p>
+</li>
+<li class="step" value="3">
+<p class="para">
+<span class="stc">アップデートするプリンターと異なるユーティリティをダウンロードしている。</span></p>
+</li>
+<li class="step" value="4">
+<p class="para">
+<span class="stc">プリンターが動作中。</span></p>
+</li>
+</ol>
+</div>
+</td>
+<td class="table_bodyCell" colspan="1" headers="title01" rowspan="1">
+<div class="list">
+<ol class="list" type="1">
+<li class="step" value="1">
+<p class="para">
+<span class="stc">プリンターとコンピューターをUSBケーブルで接続する。</span></p>
+</li>
+<li class="step" value="2">
+<p class="para">
+<span class="stc">プリンターの電源を入れる。</span></p>
+</li>
+<li class="step" value="3">
+<p class="para">
+<span class="stc">アップデートするプリンターのプリンターアップデートユーティリティをダウンロードして、最初からやり直す。</span></p>
+</li>
+<li class="step" value="4">
+<p class="para">
+<span class="stc">プリンターの動作が終了してからユーティリティを操作する。</span></p>
+</li>
+</ol>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<p class="gototop">
+<span class="stc"><a href="#top">ページの先頭へ</a></span><img src="images/page_top.gif" alt=""/>
+</p>
+</body>
+</html>
