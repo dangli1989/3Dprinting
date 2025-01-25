@@ -1,0 +1,53 @@
+<ConfigSection xmlns:config="http://www.grantadesign.com/icConfig/09/04" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" encrypted="true" forceOverride="false" priority="0" type="Machine" version="1" xsi:type="config:ConfigSection">
+	<config:ServiceConfigurations activeProfile="1" xsi:type="config:ServiceConfigurations">
+		<config:Service id="1" name="default" useProxy="false" xsi:type="config:ServiceDefinition">
+			<config:WebServiceDiscovery>http://servicelayer.inventor.gateway.grantadesign.com/mi_servicelayer</config:WebServiceDiscovery>
+			<config:MIViewerLocation>http://mi.inventor.gateway.grantadesign.com/mi/</config:MIViewerLocation>
+			<config:DBKey>MI_InventorSustainability</config:DBKey>
+			<config:Username>mireaduser</config:Username>
+			<config:EncryptedPassword>3PZ+qM4FgjURknwukUehmybIsEzq8+vS</config:EncryptedPassword>
+		</config:Service>
+	</config:ServiceConfigurations>
+	
+	<config:ProxySettings xsi:type="config:ProxySettings">
+		<config:ProxyAddress></config:ProxyAddress>
+		<config:ProxyPort>0</config:ProxyPort>
+		<config:ProxyUsername></config:ProxyUsername>
+		<config:ProxyPassword></config:ProxyPassword>
+	</config:ProxySettings>
+	
+	<config:UpdateServiceLocation>http://updates.inventor.gateway.grantadesign.com/updateservice/updateservice.svc</config:UpdateServiceLocation>
+	
+	<config:MaxSearchResults>0</config:MaxSearchResults>
+	<config:TempDirectory>C:\temp</config:TempDirectory>
+	<config:DefaultPageSize>US Letter</config:DefaultPageSize>
+	<config:MaterialsBookmarksFile type="Local" xsi:type="config:SharedFileType"></config:MaterialsBookmarksFile>
+	<config:DefaultUnitSystem>Metric</config:DefaultUnitSystem>
+	<config:DefaultCurrency>USD</config:DefaultCurrency>
+</ConfigSection><ConfigSection xmlns:config="http://www.grantadesign.com/icConfig/09/04" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" encrypted="true" forceOverride="false" priority="0" type="Machine" version="1" xsi:type="config:ConfigSection">
+	<config:ServiceConfigurations activeProfile="1" xsi:type="config:ServiceConfigurations">
+		<config:Service id="1" name="default" useProxy="false" xsi:type="config:ServiceDefinition">
+			<config:WebServiceDiscovery>http://servicelayer.inventor.gateway.grantadesign.com/mi_servicelayer</config:WebServiceDiscovery>
+			<config:MIViewerLocation>http://mi.inventor.gateway.grantadesign.com/mi/</config:MIViewerLocation>
+			<config:DBKey>MI_InventorSustainability</config:DBKey>
+			<config:Username>mireaduser</config:Username>
+			<config:EncryptedPassword>3PZ+qM4FgjURknwukUehmybIsEzq8+vS</config:EncryptedPassword>
+		</config:Service>
+	</config:ServiceConfigurations>
+	
+	<config:ProxySettings xsi:type="config:ProxySettings">
+		<config:ProxyAddress></config:ProxyAddress>
+		<config:ProxyPort>0</config:ProxyPort>
+		<config:ProxyUsername></config:ProxyUsername>
+		<config:ProxyPassword></config:ProxyPassword>
+	</config:ProxySettings>
+	
+	<config:UpdateServiceLocation>http://updates.inventor.gateway.grantadesign.com/updateservice/updateservice.svc</config:UpdateServiceLocation>
+	
+	<config:MaxSearchResults>0</config:MaxSearchResults>
+	<config:TempDirectory>C:\temp</config:TempDirectory>
+	<config:DefaultPageSize>US Letter</config:DefaultPageSize>
+	<config:MaterialsBookmarksFile type="Local" xsi:type="config:SharedFileType"></config:MaterialsBookmarksFile>
+	<config:DefaultUnitSystem>Metric</config:DefaultUnitSystem>
+	<config:DefaultCurrency>USD</config:DefaultCurrency>
+</ConfigSection>

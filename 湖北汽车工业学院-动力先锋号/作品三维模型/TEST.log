@@ -1,0 +1,2371 @@
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 000000004A0BF870
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 000000004A0BF890
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 000000004A0BF8B0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 0000000049564940
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000543AB280
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000543AB2A0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000543AB2C0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 0000000049564AC0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(224) = 000000002C36F890
+Reinitializing context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8029): free(000000002C36F890)
+Free pointer hashtable
+Free ID hashtable
+Initializing for input
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(224) = 000000002C36F890
+Free ID hashtable
+Read 1727 bytes from socket -1
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(60) = 0000000049595840
+Enlarging look-aside buffer to append data, old size=0, new size=256
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9881): malloc(256) = 0000000054571D70
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 0000000054571E80
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2700): malloc(38) = 000000004A08F970
+Push namespace binding (level=0) 'config' 'http://www.grantadesign.com/icConfig/09/04'
+Push OK ('config' matches 'config' in namespace table)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(57) = 0000000049594850
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 0000000054571F90
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2700): malloc(35) = 000000004A08F880
+Push namespace binding (level=0) 'xsi' 'http://www.w3.org/2001/XMLSchema-instance'
+Push OK ('xsi' matches 'xsi' in namespace table)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(57) = 00000000495A1190
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 00000000545720A0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(61) = 0000000049595070
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 00000000545721B0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(56) = 00000000494313E0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 00000000545722C0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(52) = 0000000049431E60
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 00000000545723D0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(55) = 00000000494318A0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 00000000545724E0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(56) = 0000000049431E20
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 00000000545725F0
+Tags 'type' and 'xsi:type' match but namespaces differ
+Tags and (default) namespaces match: 'xsi:type' 'xsi:type'
+Tags match: 'ConfigSection' 'ConfigSection'
+Begin element found (level=1) 'ConfigSection'='ConfigSection'
+Enter id='' type=111 loc=000000005457BD20 size=296 level=0
+Tags match: 'type' 'type'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(64) = 0000000049595CA0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(40) = 0000000049554150
+soap_instantiate_std__wstring(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 00000000495533D0
+Instantiated location=0000000049552230
+Tags match: 'priority' 'priority'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB2E0
+Tags match: 'forceOverride' 'forceOverride'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB300
+Tags match: 'encrypted' 'encrypted'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB320
+Tags match: 'version' 'version'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB340
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(61) = 000000004959E4E0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 0000000054572700
+Tags and (default) namespaces match: 'xsi:type' 'xsi:type'
+Tags and (default) namespaces match: 'config:ServiceConfigurations' 'config:ServiceConfigurations'
+Begin element found (level=2) 'config:ServiceConfigurations'='config:ServiceConfigurations'
+Reverting to last element 'config:ServiceConfigurations' (level=1)
+soap_instantiate_config__ServiceConfigurations(-1, config:ServiceConfigurations, )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 0000000049552B00
+Instantiated location=0000000049564B20
+Tags and (default) namespaces match: 'config:ServiceConfigurations' 'config:ServiceConfigurations'
+Begin element found (level=2) 'config:ServiceConfigurations'='config:ServiceConfigurations'
+Enter id='' type=109 loc=0000000049564B20 size=80 level=0
+Tags match: 'activeProfile' 'activeProfile'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(64) = 00000000495964C0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB360
+soap_instantiate_std__wstring(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 0000000049552F20
+Instantiated location=00000000495507F0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(50) = 00000000494316A0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 0000000054572810
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(52) = 00000000494314A0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 0000000054572920
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(56) = 00000000494318E0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 0000000054572A30
+Tags and (default) namespaces match: 'xsi:type' 'xsi:type'
+Tags and (default) namespaces match: 'config:Service' 'config:Service'
+Begin element found (level=3) 'config:Service'='config:Service'
+Reverting to last element 'config:Service' (level=2)
+Tags and (default) namespaces match: 'config:Service' 'config:Service'
+Begin element found (level=3) 'config:Service'='config:Service'
+Reverting to last element 'config:Service' (level=2)
+soap_instantiate_config__ServiceDefinition(-1, config:ServiceDefinition, )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 0000000049554780
+Instantiated location=0000000054572B40
+Tags and (default) namespaces match: 'config:Service' 'config:Service'
+Begin element found (level=3) 'config:Service'='config:Service'
+Enter id='' type=108 loc=0000000054572B40 size=264 level=0
+Tags match: 'id' 'id'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(64) = 0000000049596CE0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB380
+soap_instantiate_std__wstring(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 000000004954FFB0
+Instantiated location=0000000049553B20
+Tags match: 'name' 'name'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(64) = 000000004959C870
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(40) = 0000000049554570
+soap_instantiate_std__wstring(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 000000002C166E90
+Instantiated location=000000002C166A40
+Tags match: 'useProxy' 'useProxy'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB3A0
+Tags and (default) namespaces match: 'config:WebServiceDiscovery' 'config:WebServiceDiscovery'
+Begin element found (level=4) 'config:WebServiceDiscovery'='config:WebServiceDiscovery'
+Enter id='' type=11 loc=0000000054572B58 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB3C0
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 140 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(160) = 00000000543BFA30
+First block
+Copy 140 bytes from 000000002C1A1D90 to 00000000543BFA30
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB3C0)
+End element found (level=4) 'config:WebServiceDiscovery'='config:WebServiceDiscovery'
+Tags and (default) namespaces match: 'config:MIViewerLocation' 'config:MIViewerLocation'
+Begin element found (level=4) 'config:MIViewerLocation'='config:MIViewerLocation'
+Enter id='' type=11 loc=0000000054572B80 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB3C0
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 96 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(120) = 0000000049E84150
+First block
+Copy 96 bytes from 000000002C1A1D90 to 0000000049E84150
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB3C0)
+End element found (level=4) 'config:MIViewerLocation'='config:MIViewerLocation'
+Tags and (default) namespaces match: 'config:DBKey' 'config:DBKey'
+Begin element found (level=4) 'config:DBKey'='config:DBKey'
+Enter id='' type=10 loc=0000000054572BA8 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB3C0
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 52 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(72) = 0000000049597D20
+First block
+Copy 52 bytes from 000000002C1A1D90 to 0000000049597D20
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB3C0)
+End element found (level=4) 'config:DBKey'='config:DBKey'
+Tags and (default) namespaces match: 'config:Username' 'config:Username'
+Begin element found (level=4) 'config:Username'='config:Username'
+Enter id='' type=10 loc=0000000054572BD0 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB3C0
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 22 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(40) = 000000002C164220
+First block
+Copy 22 bytes from 000000002C1A1D90 to 000000002C164220
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB3C0)
+End element found (level=4) 'config:Username'='config:Username'
+Tags and (default) namespaces match: 'config:EncryptedPassword' 'config:EncryptedPassword'
+Begin element found (level=4) 'config:EncryptedPassword'='config:EncryptedPassword'
+Reverting to last element 'config:EncryptedPassword' (level=3)
+soap_instantiate_xsd__base64Binary(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 000000002C166740
+Instantiated location=0000000049431420
+Tags and (default) namespaces match: 'config:EncryptedPassword' 'config:EncryptedPassword'
+Begin element found (level=4) 'config:EncryptedPassword'='config:EncryptedPassword'
+Enter id='' type=13 loc=0000000049431420 size=56 level=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(48) = 0000000049431460
+End element found (level=4) 'config:EncryptedPassword'='config:EncryptedPassword'
+Reading string content, flag=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB3C0
+End element found (level=3) 'config:Service'='config:Service'
+Reading string content, flag=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB3E0
+End element found (level=2) 'config:ServiceConfigurations'='config:ServiceConfigurations'
+Tags and (default) namespaces match: 'xsi:type' 'xsi:type'
+Tags and (default) namespaces match: 'config:ProxySettings' 'config:ProxySettings'
+Begin element found (level=2) 'config:ProxySettings'='config:ProxySettings'
+Reverting to last element 'config:ProxySettings' (level=1)
+soap_instantiate_config__ProxySettings(-1, config:ProxySettings, )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 000000002C163AD0
+Instantiated location=000000005456D6B0
+Tags and (default) namespaces match: 'config:ProxySettings' 'config:ProxySettings'
+Begin element found (level=2) 'config:ProxySettings'='config:ProxySettings'
+Enter id='' type=110 loc=000000005456D6B0 size=128 level=0
+Tags and (default) namespaces match: 'config:ProxyAddress' 'config:ProxyAddress'
+Begin element found (level=3) 'config:ProxyAddress'='config:ProxyAddress'
+Enter id='' type=10 loc=000000005456D6C8 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB400
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 2 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB420
+First block
+Copy 2 bytes from 000000002C1A1D90 to 00000000543AB420
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB400)
+End element found (level=3) 'config:ProxyAddress'='config:ProxyAddress'
+Tags and (default) namespaces match: 'config:ProxyPort' 'config:ProxyPort'
+Begin element found (level=3) 'config:ProxyPort'='config:ProxyPort'
+Enter id='' type=1 loc=000000005456D6F0 size=4 level=0
+Element content value='0'
+End element found (level=3) 'config:ProxyPort'='config:ProxyPort'
+Tags and (default) namespaces match: 'config:ProxyUsername' 'config:ProxyUsername'
+Begin element found (level=3) 'config:ProxyUsername'='config:ProxyUsername'
+Enter id='' type=10 loc=000000005456D6F8 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB400
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 2 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB440
+First block
+Copy 2 bytes from 000000002C1A1D90 to 00000000543AB440
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB400)
+End element found (level=3) 'config:ProxyUsername'='config:ProxyUsername'
+Tags and (default) namespaces match: 'config:ProxyPassword' 'config:ProxyPassword'
+Begin element found (level=3) 'config:ProxyPassword'='config:ProxyPassword'
+Reverting to last element 'config:ProxyPassword' (level=2)
+Tags and (default) namespaces match: 'config:ProxyPassword' 'config:ProxyPassword'
+Begin element found (level=3) 'config:ProxyPassword'='config:ProxyPassword'
+soap_instantiate_std__wstring(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 000000004A076950
+Instantiated location=000000004A074910
+Enter id='' type=10 loc=000000004A074910 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB400
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 2 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB460
+First block
+Copy 2 bytes from 000000002C1A1D90 to 00000000543AB460
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB400)
+End element found (level=3) 'config:ProxyPassword'='config:ProxyPassword'
+Reading string content, flag=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB400
+End element found (level=2) 'config:ProxySettings'='config:ProxySettings'
+Tags and (default) namespaces match: 'config:UpdateServiceLocation' 'config:UpdateServiceLocation'
+Begin element found (level=2) 'config:UpdateServiceLocation'='config:UpdateServiceLocation'
+Enter id='' type=11 loc=000000005457BD48 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB480
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 162 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(184) = 0000000049FA5070
+First block
+Copy 162 bytes from 000000002C1A1D90 to 0000000049FA5070
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB480)
+End element found (level=2) 'config:UpdateServiceLocation'='config:UpdateServiceLocation'
+Tags and (default) namespaces match: 'config:MaxSearchResults' 'config:MaxSearchResults'
+Begin element found (level=2) 'config:MaxSearchResults'='config:MaxSearchResults'
+Enter id='' type=1 loc=000000005457BD70 size=4 level=0
+Element content value='0'
+End element found (level=2) 'config:MaxSearchResults'='config:MaxSearchResults'
+Tags and (default) namespaces match: 'config:TempDirectory' 'config:TempDirectory'
+Begin element found (level=2) 'config:TempDirectory'='config:TempDirectory'
+Enter id='' type=10 loc=000000005457BD78 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB480
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 16 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(40) = 00000000498E32E0
+First block
+Copy 16 bytes from 000000002C1A1D90 to 00000000498E32E0
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB480)
+End element found (level=2) 'config:TempDirectory'='config:TempDirectory'
+Tags and (default) namespaces match: 'config:DefaultPageSize' 'config:DefaultPageSize'
+Begin element found (level=2) 'config:DefaultPageSize'='config:DefaultPageSize'
+Enter id='' type=137 loc=000000005457BDA0 size=4 level=0
+Element content value='US Letter'
+End element found (level=2) 'config:DefaultPageSize'='config:DefaultPageSize'
+Tags 'type' and 'xsi:type' match but namespaces differ
+Tags and (default) namespaces match: 'xsi:type' 'xsi:type'
+Tags and (default) namespaces match: 'config:MaterialsBookmarksFile' 'config:MaterialsBookmarksFile'
+Begin element found (level=2) 'config:MaterialsBookmarksFile'='config:MaterialsBookmarksFile'
+Reverting to last element 'config:MaterialsBookmarksFile' (level=1)
+soap_instantiate_config__SharedFileType(-1, config:SharedFileType, )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 00000000498E80B0
+Instantiated location=000000004959C460
+Tags and (default) namespaces match: 'config:MaterialsBookmarksFile' 'config:MaterialsBookmarksFile'
+Begin element found (level=2) 'config:MaterialsBookmarksFile'='config:MaterialsBookmarksFile'
+Enter id='' type=112 loc=000000004959C460 size=72 level=0
+Reverting to last element 'config:MaterialsBookmarksFile' (level=1)
+Tags match: 'type' 'type'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB480
+Tags and (default) namespaces match: 'config:MaterialsBookmarksFile' 'config:MaterialsBookmarksFile'
+Begin element found (level=2) 'config:MaterialsBookmarksFile'='config:MaterialsBookmarksFile'
+Enter id='' type=10 loc=000000004959C478 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB4A0
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 2 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB4C0
+First block
+Copy 2 bytes from 000000002C1A1D90 to 00000000543AB4C0
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB4A0)
+End element found (level=2) 'config:MaterialsBookmarksFile'='config:MaterialsBookmarksFile'
+Tags and (default) namespaces match: 'config:DefaultUnitSystem' 'config:DefaultUnitSystem'
+Begin element found (level=2) 'config:DefaultUnitSystem'='config:DefaultUnitSystem'
+Enter id='' type=10 loc=000000005457BDB8 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB4A0
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 14 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(32) = 000000004A05DE10
+First block
+Copy 14 bytes from 000000002C1A1D90 to 000000004A05DE10
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB4A0)
+End element found (level=2) 'config:DefaultUnitSystem'='config:DefaultUnitSystem'
+Tags and (default) namespaces match: 'config:DefaultCurrency' 'config:DefaultCurrency'
+Begin element found (level=2) 'config:DefaultCurrency'='config:DefaultCurrency'
+Enter id='' type=10 loc=000000005457BDE0 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB4A0
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 8 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(32) = 000000004A060CF0
+First block
+Copy 8 bytes from 000000002C1A1D90 to 000000004A060CF0
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB4A0)
+End element found (level=2) 'config:DefaultCurrency'='config:DefaultCurrency'
+Reading string content, flag=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB4A0
+End element found (level=1) 'ConfigSection'='ConfigSection'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000543AB5C0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000543AB5E0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000543AB600
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 0000000049564B80
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000543AB620
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000543AB640
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000543AB660
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 0000000049564BE0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(224) = 000000002C36F5C0
+Reinitializing context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8029): free(000000002C36F5C0)
+Free pointer hashtable
+Free ID hashtable
+Initializing for input
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(224) = 000000002C36F5C0
+Free ID hashtable
+Read 1727 bytes from socket -1
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(60) = 0000000049599300
+Enlarging look-aside buffer to append data, old size=0, new size=256
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9881): malloc(256) = 0000000054572C50
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 0000000054572D60
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2700): malloc(38) = 000000002C11A3F0
+Push namespace binding (level=0) 'config' 'http://www.grantadesign.com/icConfig/09/04'
+Push OK ('config' matches 'config' in namespace table)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(57) = 0000000049599C10
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 0000000054572E70
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2700): malloc(35) = 000000002C29C920
+Push namespace binding (level=0) 'xsi' 'http://www.w3.org/2001/XMLSchema-instance'
+Push OK ('xsi' matches 'xsi' in namespace table)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(57) = 0000000049594C10
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 0000000054572F80
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(61) = 000000004959A840
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 0000000054573090
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(56) = 0000000049431A60
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 00000000545731A0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(52) = 00000000494311E0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 00000000545732B0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(55) = 0000000049431860
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 00000000545733C0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(56) = 0000000049431560
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 00000000545734D0
+Tags 'type' and 'xsi:type' match but namespaces differ
+Tags and (default) namespaces match: 'xsi:type' 'xsi:type'
+Tags match: 'ConfigSection' 'ConfigSection'
+Begin element found (level=1) 'ConfigSection'='ConfigSection'
+Enter id='' type=111 loc=000000005457BE48 size=296 level=0
+Tags match: 'type' 'type'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(64) = 000000004959B060
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(40) = 000000002C2AEC70
+soap_instantiate_std__wstring(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 000000002C1336B0
+Instantiated location=000000002C131610
+Tags match: 'priority' 'priority'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB680
+Tags match: 'forceOverride' 'forceOverride'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB6A0
+Tags match: 'encrypted' 'encrypted'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB6C0
+Tags match: 'version' 'version'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB6E0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(61) = 000000004959D8B0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 00000000545735E0
+Tags and (default) namespaces match: 'xsi:type' 'xsi:type'
+Tags and (default) namespaces match: 'config:ServiceConfigurations' 'config:ServiceConfigurations'
+Begin element found (level=2) 'config:ServiceConfigurations'='config:ServiceConfigurations'
+Reverting to last element 'config:ServiceConfigurations' (level=1)
+soap_instantiate_config__ServiceConfigurations(-1, config:ServiceConfigurations, )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 000000002C2B5DC0
+Instantiated location=0000000049564C40
+Tags and (default) namespaces match: 'config:ServiceConfigurations' 'config:ServiceConfigurations'
+Begin element found (level=2) 'config:ServiceConfigurations'='config:ServiceConfigurations'
+Enter id='' type=109 loc=0000000049564C40 size=80 level=0
+Tags match: 'activeProfile' 'activeProfile'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(64) = 000000004959BC90
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB700
+soap_instantiate_std__wstring(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 0000000049E04EB0
+Instantiated location=0000000049CB34A0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(50) = 00000000494311A0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 00000000545736F0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(52) = 00000000494310A0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 0000000054573800
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10067): malloc(56) = 00000000494312A0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(10121): malloc(256) = 0000000054573910
+Tags and (default) namespaces match: 'xsi:type' 'xsi:type'
+Tags and (default) namespaces match: 'config:Service' 'config:Service'
+Begin element found (level=3) 'config:Service'='config:Service'
+Reverting to last element 'config:Service' (level=2)
+Tags and (default) namespaces match: 'config:Service' 'config:Service'
+Begin element found (level=3) 'config:Service'='config:Service'
+Reverting to last element 'config:Service' (level=2)
+soap_instantiate_config__ServiceDefinition(-1, config:ServiceDefinition, )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 000000004A0FAE80
+Instantiated location=0000000054573A20
+Tags and (default) namespaces match: 'config:Service' 'config:Service'
+Begin element found (level=3) 'config:Service'='config:Service'
+Enter id='' type=108 loc=0000000054573A20 size=264 level=0
+Tags match: 'id' 'id'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(64) = 000000004959C4B0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB720
+soap_instantiate_std__wstring(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 000000004A0FAF40
+Instantiated location=000000004A0FAFA0
+Tags match: 'name' 'name'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(64) = 000000004959DCC0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(40) = 000000004A0FB000
+soap_instantiate_std__wstring(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 000000004A0FB060
+Instantiated location=000000004A0FB0C0
+Tags match: 'useProxy' 'useProxy'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB740
+Tags and (default) namespaces match: 'config:WebServiceDiscovery' 'config:WebServiceDiscovery'
+Begin element found (level=4) 'config:WebServiceDiscovery'='config:WebServiceDiscovery'
+Enter id='' type=11 loc=0000000054573A38 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB760
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 140 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(160) = 00000000543BFAE0
+First block
+Copy 140 bytes from 000000002C1A1D90 to 00000000543BFAE0
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB760)
+End element found (level=4) 'config:WebServiceDiscovery'='config:WebServiceDiscovery'
+Tags and (default) namespaces match: 'config:MIViewerLocation' 'config:MIViewerLocation'
+Begin element found (level=4) 'config:MIViewerLocation'='config:MIViewerLocation'
+Enter id='' type=11 loc=0000000054573A60 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB760
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 96 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(120) = 0000000049E840D0
+First block
+Copy 96 bytes from 000000002C1A1D90 to 0000000049E840D0
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB760)
+End element found (level=4) 'config:MIViewerLocation'='config:MIViewerLocation'
+Tags and (default) namespaces match: 'config:DBKey' 'config:DBKey'
+Begin element found (level=4) 'config:DBKey'='config:DBKey'
+Enter id='' type=10 loc=0000000054573A88 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB760
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 52 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(72) = 000000004959D0E0
+First block
+Copy 52 bytes from 000000002C1A1D90 to 000000004959D0E0
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB760)
+End element found (level=4) 'config:DBKey'='config:DBKey'
+Tags and (default) namespaces match: 'config:Username' 'config:Username'
+Begin element found (level=4) 'config:Username'='config:Username'
+Enter id='' type=10 loc=0000000054573AB0 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB760
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 22 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(40) = 000000004A0FB330
+First block
+Copy 22 bytes from 000000002C1A1D90 to 000000004A0FB330
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB760)
+End element found (level=4) 'config:Username'='config:Username'
+Tags and (default) namespaces match: 'config:EncryptedPassword' 'config:EncryptedPassword'
+Begin element found (level=4) 'config:EncryptedPassword'='config:EncryptedPassword'
+Reverting to last element 'config:EncryptedPassword' (level=3)
+soap_instantiate_xsd__base64Binary(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 000000004A0FB3C0
+Instantiated location=0000000049430EE0
+Tags and (default) namespaces match: 'config:EncryptedPassword' 'config:EncryptedPassword'
+Begin element found (level=4) 'config:EncryptedPassword'='config:EncryptedPassword'
+Enter id='' type=13 loc=0000000049430EE0 size=56 level=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(48) = 0000000049430EA0
+End element found (level=4) 'config:EncryptedPassword'='config:EncryptedPassword'
+Reading string content, flag=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB760
+End element found (level=3) 'config:Service'='config:Service'
+Reading string content, flag=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB780
+End element found (level=2) 'config:ServiceConfigurations'='config:ServiceConfigurations'
+Tags and (default) namespaces match: 'xsi:type' 'xsi:type'
+Tags and (default) namespaces match: 'config:ProxySettings' 'config:ProxySettings'
+Begin element found (level=2) 'config:ProxySettings'='config:ProxySettings'
+Reverting to last element 'config:ProxySettings' (level=1)
+soap_instantiate_config__ProxySettings(-1, config:ProxySettings, )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 000000004A0FB4B0
+Instantiated location=000000005456D860
+Tags and (default) namespaces match: 'config:ProxySettings' 'config:ProxySettings'
+Begin element found (level=2) 'config:ProxySettings'='config:ProxySettings'
+Enter id='' type=110 loc=000000005456D860 size=128 level=0
+Tags and (default) namespaces match: 'config:ProxyAddress' 'config:ProxyAddress'
+Begin element found (level=3) 'config:ProxyAddress'='config:ProxyAddress'
+Enter id='' type=10 loc=000000005456D878 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB7A0
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 2 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB7C0
+First block
+Copy 2 bytes from 000000002C1A1D90 to 00000000543AB7C0
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB7A0)
+End element found (level=3) 'config:ProxyAddress'='config:ProxyAddress'
+Tags and (default) namespaces match: 'config:ProxyPort' 'config:ProxyPort'
+Begin element found (level=3) 'config:ProxyPort'='config:ProxyPort'
+Enter id='' type=1 loc=000000005456D8A0 size=4 level=0
+Element content value='0'
+End element found (level=3) 'config:ProxyPort'='config:ProxyPort'
+Tags and (default) namespaces match: 'config:ProxyUsername' 'config:ProxyUsername'
+Begin element found (level=3) 'config:ProxyUsername'='config:ProxyUsername'
+Enter id='' type=10 loc=000000005456D8A8 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB7A0
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 2 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB7E0
+First block
+Copy 2 bytes from 000000002C1A1D90 to 00000000543AB7E0
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB7A0)
+End element found (level=3) 'config:ProxyUsername'='config:ProxyUsername'
+Tags and (default) namespaces match: 'config:ProxyPassword' 'config:ProxyPassword'
+Begin element found (level=3) 'config:ProxyPassword'='config:ProxyPassword'
+Reverting to last element 'config:ProxyPassword' (level=2)
+Tags and (default) namespaces match: 'config:ProxyPassword' 'config:ProxyPassword'
+Begin element found (level=3) 'config:ProxyPassword'='config:ProxyPassword'
+soap_instantiate_std__wstring(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 000000004A0FB630
+Instantiated location=000000004A0FB690
+Enter id='' type=10 loc=000000004A0FB690 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB7A0
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 2 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB800
+First block
+Copy 2 bytes from 000000002C1A1D90 to 00000000543AB800
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB7A0)
+End element found (level=3) 'config:ProxyPassword'='config:ProxyPassword'
+Reading string content, flag=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB7A0
+End element found (level=2) 'config:ProxySettings'='config:ProxySettings'
+Tags and (default) namespaces match: 'config:UpdateServiceLocation' 'config:UpdateServiceLocation'
+Begin element found (level=2) 'config:UpdateServiceLocation'='config:UpdateServiceLocation'
+Enter id='' type=11 loc=000000005457BE70 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB820
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 162 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(184) = 0000000049FA51F0
+First block
+Copy 162 bytes from 000000002C1A1D90 to 0000000049FA51F0
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB820)
+End element found (level=2) 'config:UpdateServiceLocation'='config:UpdateServiceLocation'
+Tags and (default) namespaces match: 'config:MaxSearchResults' 'config:MaxSearchResults'
+Begin element found (level=2) 'config:MaxSearchResults'='config:MaxSearchResults'
+Enter id='' type=1 loc=000000005457BE98 size=4 level=0
+Element content value='0'
+End element found (level=2) 'config:MaxSearchResults'='config:MaxSearchResults'
+Tags and (default) namespaces match: 'config:TempDirectory' 'config:TempDirectory'
+Begin element found (level=2) 'config:TempDirectory'='config:TempDirectory'
+Enter id='' type=10 loc=000000005457BEA0 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB820
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 16 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(40) = 000000004A0FB870
+First block
+Copy 16 bytes from 000000002C1A1D90 to 000000004A0FB870
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB820)
+End element found (level=2) 'config:TempDirectory'='config:TempDirectory'
+Tags and (default) namespaces match: 'config:DefaultPageSize' 'config:DefaultPageSize'
+Begin element found (level=2) 'config:DefaultPageSize'='config:DefaultPageSize'
+Enter id='' type=137 loc=000000005457BEC8 size=4 level=0
+Element content value='US Letter'
+End element found (level=2) 'config:DefaultPageSize'='config:DefaultPageSize'
+Tags 'type' and 'xsi:type' match but namespaces differ
+Tags and (default) namespaces match: 'xsi:type' 'xsi:type'
+Tags and (default) namespaces match: 'config:MaterialsBookmarksFile' 'config:MaterialsBookmarksFile'
+Begin element found (level=2) 'config:MaterialsBookmarksFile'='config:MaterialsBookmarksFile'
+Reverting to last element 'config:MaterialsBookmarksFile' (level=1)
+soap_instantiate_config__SharedFileType(-1, config:SharedFileType, )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 000000004A0FB8D0
+Instantiated location=000000004959E530
+Tags and (default) namespaces match: 'config:MaterialsBookmarksFile' 'config:MaterialsBookmarksFile'
+Begin element found (level=2) 'config:MaterialsBookmarksFile'='config:MaterialsBookmarksFile'
+Enter id='' type=112 loc=000000004959E530 size=72 level=0
+Reverting to last element 'config:MaterialsBookmarksFile' (level=1)
+Tags match: 'type' 'type'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB820
+Tags and (default) namespaces match: 'config:MaterialsBookmarksFile' 'config:MaterialsBookmarksFile'
+Begin element found (level=2) 'config:MaterialsBookmarksFile'='config:MaterialsBookmarksFile'
+Enter id='' type=10 loc=000000004959E548 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB840
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 2 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB860
+First block
+Copy 2 bytes from 000000002C1A1D90 to 00000000543AB860
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB840)
+End element found (level=2) 'config:MaterialsBookmarksFile'='config:MaterialsBookmarksFile'
+Tags and (default) namespaces match: 'config:DefaultUnitSystem' 'config:DefaultUnitSystem'
+Begin element found (level=2) 'config:DefaultUnitSystem'='config:DefaultUnitSystem'
+Enter id='' type=10 loc=000000005457BEE0 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB840
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 14 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(32) = 000000004A0FBA50
+First block
+Copy 14 bytes from 000000002C1A1D90 to 000000004A0FBA50
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB840)
+End element found (level=2) 'config:DefaultUnitSystem'='config:DefaultUnitSystem'
+Tags and (default) namespaces match: 'config:DefaultCurrency' 'config:DefaultCurrency'
+Begin element found (level=2) 'config:DefaultCurrency'='config:DefaultCurrency'
+Enter id='' type=10 loc=000000005457BF08 size=40 level=0
+Reading wide string content
+New block sequence (prev=0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2098): malloc(24) = 00000000543AB840
+Push block of 512 bytes (512 bytes total)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2120): malloc(528) = 000000002C1A1D80
+Save all blocks in contiguous memory space of 8 bytes (000000002C1A1D80->0000000000000000)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(32) = 000000004A0FBB10
+First block
+Copy 8 bytes from 000000002C1A1D90 to 000000004A0FBB10
+Next block
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2376): free(000000002C1A1D80)
+End of block sequence, free all remaining blocks
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2422): free(00000000543AB840)
+End element found (level=2) 'config:DefaultCurrency'='config:DefaultCurrency'
+Reading string content, flag=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(24) = 00000000543AB840
+End element found (level=1) 'ConfigSection'='ConfigSection'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000543ABB40
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000543ABB60
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000543ABB80
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 0000000049564D60
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000543ABBA0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000543ABBC0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000543ABBE0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 0000000049564DC0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(224) = 000000002C36F2F0
+Reinitializing context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8029): free(000000002C36F2F0)
+Free pointer hashtable
+Free ID hashtable
+Initializing for input
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(224) = 000000002C36F2F0
+Free ID hashtable
+Read 0 bytes from socket -1
+Read 0 bytes from socket -1
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8029): free(000000002C36F2F0)
+Free pointer hashtable
+Free ID hashtable
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5067): free(0000000049564DC0)
+Free logfiles
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000543ABBE0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000543ABBC0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000543ABBA0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1620
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F14C0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1560
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 0000000049159510
+Reinitializing context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free namespace stack
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(544) = 0000000049DD5180
+Begin count phase (socket=-1 mode=0x30008 count=0)
+Element begin tag='SOAP-ENV:Envelope' id='0' type=''
+Attribute 'xmlns:SOAP-ENV'='http://schemas.xmlsoap.org/soap/envelope/'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435A2F0
+Attribute 'xmlns:SOAP-ENC'='http://www.w3.org/2003/05/soap-encoding'
+Adding namespace binding (level=1) 'SOAP-ENC' 'http://www.w3.org/2003/05/soap-encoding' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 0000000054359BD0
+Attribute 'xmlns:xsi'='http://www.w3.org/2001/XMLSchema-instance'
+Adding namespace binding (level=1) 'xsi' 'http://www.w3.org/2001/XMLSchema-instance' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(77) = 000000005435A170
+Attribute 'xmlns:xsd'='http://www.w3.org/2001/XMLSchema'
+Adding namespace binding (level=1) 'xsd' 'http://www.w3.org/2001/XMLSchema' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(68) = 0000000049E9A530
+Attribute 'xmlns:gbt'='http://www.grantadesign.com/10/06/GrantaBaseTypes'
+Adding namespace binding (level=1) 'gbt' 'http://www.grantadesign.com/10/06/GrantaBaseTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 0000000054359FF0
+Attribute 'xmlns:grt'='http://www.grantadesign.com/10/06/GrantaReportTypes'
+Adding namespace binding (level=1) 'grt' 'http://www.grantadesign.com/10/06/GrantaReportTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(87) = 0000000054359E70
+Attribute 'xmlns:ns1'='http://www.grantadesign.com/10/06/Browse1006'
+Adding namespace binding (level=1) 'ns1' 'http://www.grantadesign.com/10/06/Browse1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435A290
+Attribute 'xmlns:browse'='http://www.grantadesign.com/10/06/Browse'
+Adding namespace binding (level=1) 'browse' 'http://www.grantadesign.com/10/06/Browse' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435A350
+Attribute 'xmlns:ns2'='http://www.grantadesign.com/10/06/ReportFormatter1006'
+Adding namespace binding (level=1) 'ns2' 'http://www.grantadesign.com/10/06/ReportFormatter1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34BC40
+Attribute 'xmlns:reporting'='http://www.grantadesign.com/10/06/Reporting'
+Adding namespace binding (level=1) 'reporting' 'http://www.grantadesign.com/10/06/Reporting' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435A0B0
+Attribute 'xmlns:ns3'='http://www.grantadesign.com/10/06/Search1006'
+Adding namespace binding (level=1) 'ns3' 'http://www.grantadesign.com/10/06/Search1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435A230
+Attribute 'xmlns:search'='http://www.grantadesign.com/10/06/Search'
+Adding namespace binding (level=1) 'search' 'http://www.grantadesign.com/10/06/Search' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 00000000543599F0
+Attribute 'xmlns:ns4'='http://www.grantadesign.com/10/06/DataExport1006'
+Adding namespace binding (level=1) 'ns4' 'http://www.grantadesign.com/10/06/DataExport1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(84) = 000000005435A3B0
+Attribute 'xmlns:data'='http://www.grantadesign.com/10/06/DataExport'
+Adding namespace binding (level=1) 'data' 'http://www.grantadesign.com/10/06/DataExport' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(81) = 000000005435A410
+Attribute 'xmlns:eng'='http://www.grantadesign.com/10/06/EngineeringData'
+Adding namespace binding (level=1) 'eng' 'http://www.grantadesign.com/10/06/EngineeringData' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435A470
+Attribute 'xmlns:ns5'='http://www.grantadesign.com/10/06/EngineeringData1006'
+Adding namespace binding (level=1) 'ns5' 'http://www.grantadesign.com/10/06/EngineeringData1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34C5E0
+Utilizing namespace of 'SOAP-ENV:Envelope'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=1
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435A4D0
+Enabling utilized binding (level=1) xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Set attribute xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Allocate attribute xmlns:SOAP-ENV
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9693): malloc(62) = 0000000049E9A670
+Inserting attribute xmlns:SOAP-ENV for c14n
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9747): malloc(42) = 00000000491B6E00
+Allocate attribute value for xmlns:SOAP-ENV (00000000491B6E00)
+Element begin tag='SOAP-ENV:Body' id='0' type=''
+Utilizing namespace of 'SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Envelope'
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A4D0)
+Pop namespace binding (level=1) 'ns5'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34C5E0)
+Pop namespace binding (level=1) 'eng'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A470)
+Pop namespace binding (level=1) 'data'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A410)
+Pop namespace binding (level=1) 'ns4'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A3B0)
+Pop namespace binding (level=1) 'search'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(00000000543599F0)
+Pop namespace binding (level=1) 'ns3'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A230)
+Pop namespace binding (level=1) 'reporting'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A0B0)
+Pop namespace binding (level=1) 'ns2'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34BC40)
+Pop namespace binding (level=1) 'browse'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A350)
+Pop namespace binding (level=1) 'ns1'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A290)
+Pop namespace binding (level=1) 'grt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(0000000054359E70)
+Pop namespace binding (level=1) 'gbt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(0000000054359FF0)
+Pop namespace binding (level=1) 'xsd'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(0000000049E9A530)
+Pop namespace binding (level=1) 'xsi'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A170)
+Pop namespace binding (level=1) 'SOAP-ENC'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(0000000054359BD0)
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A2F0)
+End of count phase
+Connect/reconnect to host='servicelayer.inventor.gateway.grantadesign.com' path='/mi_servicelayer/Browse.svc' port=80
+Opening socket 7748 to host='servicelayer.inventor.gateway.grantadesign.com' port=80
+Host name not found
+soap_instantiate_SOAP_ENV__Fault(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 00000000493C8530
+Instantiated location=0000000049E9A530
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(48) = 00000000491BEB00
+Close socket 7748
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7400): free(00000000493C8530)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8006): free(00000000491B6E00)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8007): free(0000000049E9A670)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8029): free(0000000049DD5180)
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7345): free(00000000491BEB00)
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5067): free(0000000049159510)
+Free logfiles
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1560)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F14C0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1620)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1160
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F17E0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1600
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 000000005435A110
+Reinitializing context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free namespace stack
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(544) = 0000000049DD5180
+Begin count phase (socket=-1 mode=0x30008 count=0)
+Element begin tag='SOAP-ENV:Envelope' id='0' type=''
+Attribute 'xmlns:SOAP-ENV'='http://schemas.xmlsoap.org/soap/envelope/'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435A2F0
+Attribute 'xmlns:SOAP-ENC'='http://www.w3.org/2003/05/soap-encoding'
+Adding namespace binding (level=1) 'SOAP-ENC' 'http://www.w3.org/2003/05/soap-encoding' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 00000000543599F0
+Attribute 'xmlns:xsi'='http://www.w3.org/2001/XMLSchema-instance'
+Adding namespace binding (level=1) 'xsi' 'http://www.w3.org/2001/XMLSchema-instance' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(77) = 000000005435A470
+Attribute 'xmlns:xsd'='http://www.w3.org/2001/XMLSchema'
+Adding namespace binding (level=1) 'xsd' 'http://www.w3.org/2001/XMLSchema' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(68) = 0000000049E9A760
+Attribute 'xmlns:gbt'='http://www.grantadesign.com/10/06/GrantaBaseTypes'
+Adding namespace binding (level=1) 'gbt' 'http://www.grantadesign.com/10/06/GrantaBaseTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435A590
+Attribute 'xmlns:grt'='http://www.grantadesign.com/10/06/GrantaReportTypes'
+Adding namespace binding (level=1) 'grt' 'http://www.grantadesign.com/10/06/GrantaReportTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(87) = 000000005435A530
+Attribute 'xmlns:ns1'='http://www.grantadesign.com/10/06/Browse1006'
+Adding namespace binding (level=1) 'ns1' 'http://www.grantadesign.com/10/06/Browse1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435A290
+Attribute 'xmlns:browse'='http://www.grantadesign.com/10/06/Browse'
+Adding namespace binding (level=1) 'browse' 'http://www.grantadesign.com/10/06/Browse' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435A3B0
+Attribute 'xmlns:ns2'='http://www.grantadesign.com/10/06/ReportFormatter1006'
+Adding namespace binding (level=1) 'ns2' 'http://www.grantadesign.com/10/06/ReportFormatter1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34C5E0
+Attribute 'xmlns:reporting'='http://www.grantadesign.com/10/06/Reporting'
+Adding namespace binding (level=1) 'reporting' 'http://www.grantadesign.com/10/06/Reporting' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435A6B0
+Attribute 'xmlns:ns3'='http://www.grantadesign.com/10/06/Search1006'
+Adding namespace binding (level=1) 'ns3' 'http://www.grantadesign.com/10/06/Search1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435A8F0
+Attribute 'xmlns:search'='http://www.grantadesign.com/10/06/Search'
+Adding namespace binding (level=1) 'search' 'http://www.grantadesign.com/10/06/Search' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435A950
+Attribute 'xmlns:ns4'='http://www.grantadesign.com/10/06/DataExport1006'
+Adding namespace binding (level=1) 'ns4' 'http://www.grantadesign.com/10/06/DataExport1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(84) = 000000005435A890
+Attribute 'xmlns:data'='http://www.grantadesign.com/10/06/DataExport'
+Adding namespace binding (level=1) 'data' 'http://www.grantadesign.com/10/06/DataExport' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(81) = 000000005435A830
+Attribute 'xmlns:eng'='http://www.grantadesign.com/10/06/EngineeringData'
+Adding namespace binding (level=1) 'eng' 'http://www.grantadesign.com/10/06/EngineeringData' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435A7D0
+Attribute 'xmlns:ns5'='http://www.grantadesign.com/10/06/EngineeringData1006'
+Adding namespace binding (level=1) 'ns5' 'http://www.grantadesign.com/10/06/EngineeringData1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34C650
+Utilizing namespace of 'SOAP-ENV:Envelope'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=1
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435A770
+Enabling utilized binding (level=1) xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Set attribute xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Allocate attribute xmlns:SOAP-ENV
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9693): malloc(62) = 0000000049E9A7B0
+Inserting attribute xmlns:SOAP-ENV for c14n
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9747): malloc(42) = 00000000491BEB00
+Allocate attribute value for xmlns:SOAP-ENV (00000000491BEB00)
+Element begin tag='SOAP-ENV:Body' id='0' type=''
+Utilizing namespace of 'SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Envelope'
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A770)
+Pop namespace binding (level=1) 'ns5'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34C650)
+Pop namespace binding (level=1) 'eng'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A7D0)
+Pop namespace binding (level=1) 'data'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A830)
+Pop namespace binding (level=1) 'ns4'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A890)
+Pop namespace binding (level=1) 'search'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A950)
+Pop namespace binding (level=1) 'ns3'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A8F0)
+Pop namespace binding (level=1) 'reporting'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A6B0)
+Pop namespace binding (level=1) 'ns2'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34C5E0)
+Pop namespace binding (level=1) 'browse'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A3B0)
+Pop namespace binding (level=1) 'ns1'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A290)
+Pop namespace binding (level=1) 'grt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A530)
+Pop namespace binding (level=1) 'gbt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A590)
+Pop namespace binding (level=1) 'xsd'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(0000000049E9A760)
+Pop namespace binding (level=1) 'xsi'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A470)
+Pop namespace binding (level=1) 'SOAP-ENC'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(00000000543599F0)
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A2F0)
+End of count phase
+Connect/reconnect to host='servicelayer.inventor.gateway.grantadesign.com' path='/mi_servicelayer/Browse.svc' port=80
+Opening socket 6584 to host='servicelayer.inventor.gateway.grantadesign.com' port=80
+Host name not found
+soap_instantiate_SOAP_ENV__Fault(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 00000000493C8530
+Instantiated location=0000000049E9A760
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(48) = 00000000491B7C00
+Close socket 6584
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7400): free(00000000493C8530)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8006): free(00000000491BEB00)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8007): free(0000000049E9A7B0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8029): free(0000000049DD5180)
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7345): free(00000000491B7C00)
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5067): free(000000005435A110)
+Free logfiles
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1600)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F17E0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1160)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1160
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F17E0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1600
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 000000005435A950
+Reinitializing context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free namespace stack
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(544) = 0000000049DD5180
+Begin count phase (socket=-1 mode=0x30008 count=0)
+Element begin tag='SOAP-ENV:Envelope' id='0' type=''
+Attribute 'xmlns:SOAP-ENV'='http://schemas.xmlsoap.org/soap/envelope/'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435A290
+Attribute 'xmlns:SOAP-ENC'='http://www.w3.org/2003/05/soap-encoding'
+Adding namespace binding (level=1) 'SOAP-ENC' 'http://www.w3.org/2003/05/soap-encoding' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435A470
+Attribute 'xmlns:xsi'='http://www.w3.org/2001/XMLSchema-instance'
+Adding namespace binding (level=1) 'xsi' 'http://www.w3.org/2001/XMLSchema-instance' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(77) = 000000005435A3B0
+Attribute 'xmlns:xsd'='http://www.w3.org/2001/XMLSchema'
+Adding namespace binding (level=1) 'xsd' 'http://www.w3.org/2001/XMLSchema' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(68) = 0000000049E9A8F0
+Attribute 'xmlns:gbt'='http://www.grantadesign.com/10/06/GrantaBaseTypes'
+Adding namespace binding (level=1) 'gbt' 'http://www.grantadesign.com/10/06/GrantaBaseTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435A890
+Attribute 'xmlns:grt'='http://www.grantadesign.com/10/06/GrantaReportTypes'
+Adding namespace binding (level=1) 'grt' 'http://www.grantadesign.com/10/06/GrantaReportTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(87) = 00000000543599F0
+Attribute 'xmlns:ns1'='http://www.grantadesign.com/10/06/Browse1006'
+Adding namespace binding (level=1) 'ns1' 'http://www.grantadesign.com/10/06/Browse1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435A590
+Attribute 'xmlns:browse'='http://www.grantadesign.com/10/06/Browse'
+Adding namespace binding (level=1) 'browse' 'http://www.grantadesign.com/10/06/Browse' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435A7D0
+Attribute 'xmlns:ns2'='http://www.grantadesign.com/10/06/ReportFormatter1006'
+Adding namespace binding (level=1) 'ns2' 'http://www.grantadesign.com/10/06/ReportFormatter1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34C650
+Attribute 'xmlns:reporting'='http://www.grantadesign.com/10/06/Reporting'
+Adding namespace binding (level=1) 'reporting' 'http://www.grantadesign.com/10/06/Reporting' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435AAD0
+Attribute 'xmlns:ns3'='http://www.grantadesign.com/10/06/Search1006'
+Adding namespace binding (level=1) 'ns3' 'http://www.grantadesign.com/10/06/Search1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435AA10
+Attribute 'xmlns:search'='http://www.grantadesign.com/10/06/Search'
+Adding namespace binding (level=1) 'search' 'http://www.grantadesign.com/10/06/Search' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435AA70
+Attribute 'xmlns:ns4'='http://www.grantadesign.com/10/06/DataExport1006'
+Adding namespace binding (level=1) 'ns4' 'http://www.grantadesign.com/10/06/DataExport1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(84) = 000000005435A770
+Attribute 'xmlns:data'='http://www.grantadesign.com/10/06/DataExport'
+Adding namespace binding (level=1) 'data' 'http://www.grantadesign.com/10/06/DataExport' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(81) = 000000005435A710
+Attribute 'xmlns:eng'='http://www.grantadesign.com/10/06/EngineeringData'
+Adding namespace binding (level=1) 'eng' 'http://www.grantadesign.com/10/06/EngineeringData' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435A650
+Attribute 'xmlns:ns5'='http://www.grantadesign.com/10/06/EngineeringData1006'
+Adding namespace binding (level=1) 'ns5' 'http://www.grantadesign.com/10/06/EngineeringData1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34C810
+Utilizing namespace of 'SOAP-ENV:Envelope'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=1
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435A4D0
+Enabling utilized binding (level=1) xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Set attribute xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Allocate attribute xmlns:SOAP-ENV
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9693): malloc(62) = 0000000049E9A940
+Inserting attribute xmlns:SOAP-ENV for c14n
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9747): malloc(42) = 00000000491B7C00
+Allocate attribute value for xmlns:SOAP-ENV (00000000491B7C00)
+Element begin tag='SOAP-ENV:Body' id='0' type=''
+Utilizing namespace of 'SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Envelope'
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A4D0)
+Pop namespace binding (level=1) 'ns5'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34C810)
+Pop namespace binding (level=1) 'eng'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A650)
+Pop namespace binding (level=1) 'data'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A710)
+Pop namespace binding (level=1) 'ns4'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A770)
+Pop namespace binding (level=1) 'search'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AA70)
+Pop namespace binding (level=1) 'ns3'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AA10)
+Pop namespace binding (level=1) 'reporting'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AAD0)
+Pop namespace binding (level=1) 'ns2'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34C650)
+Pop namespace binding (level=1) 'browse'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A7D0)
+Pop namespace binding (level=1) 'ns1'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A590)
+Pop namespace binding (level=1) 'grt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(00000000543599F0)
+Pop namespace binding (level=1) 'gbt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A890)
+Pop namespace binding (level=1) 'xsd'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(0000000049E9A8F0)
+Pop namespace binding (level=1) 'xsi'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A3B0)
+Pop namespace binding (level=1) 'SOAP-ENC'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A470)
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A290)
+End of count phase
+Connect/reconnect to host='servicelayer.inventor.gateway.grantadesign.com' path='/mi_servicelayer/Browse.svc' port=80
+Opening socket 7080 to host='servicelayer.inventor.gateway.grantadesign.com' port=80
+Host name not found
+soap_instantiate_SOAP_ENV__Fault(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 00000000493C8C80
+Instantiated location=0000000049E9A8F0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(48) = 00000000491B9740
+Close socket 7080
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7400): free(00000000493C8C80)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8006): free(00000000491B7C00)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8007): free(0000000049E9A940)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8029): free(0000000049DD5180)
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7345): free(00000000491B9740)
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5067): free(000000005435A950)
+Free logfiles
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1600)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F17E0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1160)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F17E0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1600
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1720
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 000000005435A890
+Reinitializing context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free namespace stack
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(544) = 0000000049DD5180
+Begin count phase (socket=-1 mode=0x30008 count=0)
+Element begin tag='SOAP-ENV:Envelope' id='0' type=''
+Attribute 'xmlns:SOAP-ENV'='http://schemas.xmlsoap.org/soap/envelope/'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435A3B0
+Attribute 'xmlns:SOAP-ENC'='http://www.w3.org/2003/05/soap-encoding'
+Adding namespace binding (level=1) 'SOAP-ENC' 'http://www.w3.org/2003/05/soap-encoding' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 00000000543599F0
+Attribute 'xmlns:xsi'='http://www.w3.org/2001/XMLSchema-instance'
+Adding namespace binding (level=1) 'xsi' 'http://www.w3.org/2001/XMLSchema-instance' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(77) = 000000005435A290
+Attribute 'xmlns:xsd'='http://www.w3.org/2001/XMLSchema'
+Adding namespace binding (level=1) 'xsd' 'http://www.w3.org/2001/XMLSchema' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(68) = 0000000049E9A990
+Attribute 'xmlns:gbt'='http://www.grantadesign.com/10/06/GrantaBaseTypes'
+Adding namespace binding (level=1) 'gbt' 'http://www.grantadesign.com/10/06/GrantaBaseTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435A7D0
+Attribute 'xmlns:grt'='http://www.grantadesign.com/10/06/GrantaReportTypes'
+Adding namespace binding (level=1) 'grt' 'http://www.grantadesign.com/10/06/GrantaReportTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(87) = 000000005435A590
+Attribute 'xmlns:ns1'='http://www.grantadesign.com/10/06/Browse1006'
+Adding namespace binding (level=1) 'ns1' 'http://www.grantadesign.com/10/06/Browse1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435AAD0
+Attribute 'xmlns:browse'='http://www.grantadesign.com/10/06/Browse'
+Adding namespace binding (level=1) 'browse' 'http://www.grantadesign.com/10/06/Browse' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435AA70
+Attribute 'xmlns:ns2'='http://www.grantadesign.com/10/06/ReportFormatter1006'
+Adding namespace binding (level=1) 'ns2' 'http://www.grantadesign.com/10/06/ReportFormatter1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34C650
+Attribute 'xmlns:reporting'='http://www.grantadesign.com/10/06/Reporting'
+Adding namespace binding (level=1) 'reporting' 'http://www.grantadesign.com/10/06/Reporting' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435AC50
+Attribute 'xmlns:ns3'='http://www.grantadesign.com/10/06/Search1006'
+Adding namespace binding (level=1) 'ns3' 'http://www.grantadesign.com/10/06/Search1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435A4D0
+Attribute 'xmlns:search'='http://www.grantadesign.com/10/06/Search'
+Adding namespace binding (level=1) 'search' 'http://www.grantadesign.com/10/06/Search' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435ABF0
+Attribute 'xmlns:ns4'='http://www.grantadesign.com/10/06/DataExport1006'
+Adding namespace binding (level=1) 'ns4' 'http://www.grantadesign.com/10/06/DataExport1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(84) = 000000005435A5F0
+Attribute 'xmlns:data'='http://www.grantadesign.com/10/06/DataExport'
+Adding namespace binding (level=1) 'data' 'http://www.grantadesign.com/10/06/DataExport' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(81) = 000000005435A9B0
+Attribute 'xmlns:eng'='http://www.grantadesign.com/10/06/EngineeringData'
+Adding namespace binding (level=1) 'eng' 'http://www.grantadesign.com/10/06/EngineeringData' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435A530
+Attribute 'xmlns:ns5'='http://www.grantadesign.com/10/06/EngineeringData1006'
+Adding namespace binding (level=1) 'ns5' 'http://www.grantadesign.com/10/06/EngineeringData1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34C810
+Utilizing namespace of 'SOAP-ENV:Envelope'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=1
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435AB30
+Enabling utilized binding (level=1) xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Set attribute xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Allocate attribute xmlns:SOAP-ENV
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9693): malloc(62) = 0000000049E9A9E0
+Inserting attribute xmlns:SOAP-ENV for c14n
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9747): malloc(42) = 00000000491B9740
+Allocate attribute value for xmlns:SOAP-ENV (00000000491B9740)
+Element begin tag='SOAP-ENV:Body' id='0' type=''
+Utilizing namespace of 'SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Envelope'
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AB30)
+Pop namespace binding (level=1) 'ns5'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34C810)
+Pop namespace binding (level=1) 'eng'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A530)
+Pop namespace binding (level=1) 'data'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A9B0)
+Pop namespace binding (level=1) 'ns4'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A5F0)
+Pop namespace binding (level=1) 'search'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435ABF0)
+Pop namespace binding (level=1) 'ns3'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A4D0)
+Pop namespace binding (level=1) 'reporting'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AC50)
+Pop namespace binding (level=1) 'ns2'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34C650)
+Pop namespace binding (level=1) 'browse'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AA70)
+Pop namespace binding (level=1) 'ns1'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AAD0)
+Pop namespace binding (level=1) 'grt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A590)
+Pop namespace binding (level=1) 'gbt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A7D0)
+Pop namespace binding (level=1) 'xsd'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(0000000049E9A990)
+Pop namespace binding (level=1) 'xsi'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A290)
+Pop namespace binding (level=1) 'SOAP-ENC'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(00000000543599F0)
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A3B0)
+End of count phase
+Connect/reconnect to host='servicelayer.inventor.gateway.grantadesign.com' path='/mi_servicelayer/Browse.svc' port=80
+Opening socket 7080 to host='servicelayer.inventor.gateway.grantadesign.com' port=80
+Host name not found
+soap_instantiate_SOAP_ENV__Fault(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 00000000493C8620
+Instantiated location=0000000049E9A990
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(48) = 00000000491B7C00
+Close socket 7080
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7400): free(00000000493C8620)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8006): free(00000000491B9740)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8007): free(0000000049E9A9E0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8029): free(0000000049DD5180)
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7345): free(00000000491B7C00)
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5067): free(000000005435A890)
+Free logfiles
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1720)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1600)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F17E0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F17E0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1600
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1720
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 000000005435AC50
+Reinitializing context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free namespace stack
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(544) = 0000000049DD5180
+Begin count phase (socket=-1 mode=0x30008 count=0)
+Element begin tag='SOAP-ENV:Envelope' id='0' type=''
+Attribute 'xmlns:SOAP-ENV'='http://schemas.xmlsoap.org/soap/envelope/'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435AA70
+Attribute 'xmlns:SOAP-ENC'='http://www.w3.org/2003/05/soap-encoding'
+Adding namespace binding (level=1) 'SOAP-ENC' 'http://www.w3.org/2003/05/soap-encoding' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435A5F0
+Attribute 'xmlns:xsi'='http://www.w3.org/2001/XMLSchema-instance'
+Adding namespace binding (level=1) 'xsi' 'http://www.w3.org/2001/XMLSchema-instance' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(77) = 000000005435A590
+Attribute 'xmlns:xsd'='http://www.w3.org/2001/XMLSchema'
+Adding namespace binding (level=1) 'xsd' 'http://www.w3.org/2001/XMLSchema' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(68) = 0000000049E9AB20
+Attribute 'xmlns:gbt'='http://www.grantadesign.com/10/06/GrantaBaseTypes'
+Adding namespace binding (level=1) 'gbt' 'http://www.grantadesign.com/10/06/GrantaBaseTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435A3B0
+Attribute 'xmlns:grt'='http://www.grantadesign.com/10/06/GrantaReportTypes'
+Adding namespace binding (level=1) 'grt' 'http://www.grantadesign.com/10/06/GrantaReportTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(87) = 000000005435A9B0
+Attribute 'xmlns:ns1'='http://www.grantadesign.com/10/06/Browse1006'
+Adding namespace binding (level=1) 'ns1' 'http://www.grantadesign.com/10/06/Browse1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435A7D0
+Attribute 'xmlns:browse'='http://www.grantadesign.com/10/06/Browse'
+Adding namespace binding (level=1) 'browse' 'http://www.grantadesign.com/10/06/Browse' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435ADD0
+Attribute 'xmlns:ns2'='http://www.grantadesign.com/10/06/ReportFormatter1006'
+Adding namespace binding (level=1) 'ns2' 'http://www.grantadesign.com/10/06/ReportFormatter1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34C810
+Attribute 'xmlns:reporting'='http://www.grantadesign.com/10/06/Reporting'
+Adding namespace binding (level=1) 'reporting' 'http://www.grantadesign.com/10/06/Reporting' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435AD10
+Attribute 'xmlns:ns3'='http://www.grantadesign.com/10/06/Search1006'
+Adding namespace binding (level=1) 'ns3' 'http://www.grantadesign.com/10/06/Search1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435AD70
+Attribute 'xmlns:search'='http://www.grantadesign.com/10/06/Search'
+Adding namespace binding (level=1) 'search' 'http://www.grantadesign.com/10/06/Search' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435A530
+Attribute 'xmlns:ns4'='http://www.grantadesign.com/10/06/DataExport1006'
+Adding namespace binding (level=1) 'ns4' 'http://www.grantadesign.com/10/06/DataExport1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(84) = 000000005435AB30
+Attribute 'xmlns:data'='http://www.grantadesign.com/10/06/DataExport'
+Adding namespace binding (level=1) 'data' 'http://www.grantadesign.com/10/06/DataExport' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(81) = 000000005435AB90
+Attribute 'xmlns:eng'='http://www.grantadesign.com/10/06/EngineeringData'
+Adding namespace binding (level=1) 'eng' 'http://www.grantadesign.com/10/06/EngineeringData' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435A710
+Attribute 'xmlns:ns5'='http://www.grantadesign.com/10/06/EngineeringData1006'
+Adding namespace binding (level=1) 'ns5' 'http://www.grantadesign.com/10/06/EngineeringData1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34C880
+Utilizing namespace of 'SOAP-ENV:Envelope'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=1
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435A650
+Enabling utilized binding (level=1) xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Set attribute xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Allocate attribute xmlns:SOAP-ENV
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9693): malloc(62) = 0000000049E9AB70
+Inserting attribute xmlns:SOAP-ENV for c14n
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9747): malloc(42) = 00000000491B7C00
+Allocate attribute value for xmlns:SOAP-ENV (00000000491B7C00)
+Element begin tag='SOAP-ENV:Body' id='0' type=''
+Utilizing namespace of 'SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Envelope'
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A650)
+Pop namespace binding (level=1) 'ns5'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34C880)
+Pop namespace binding (level=1) 'eng'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A710)
+Pop namespace binding (level=1) 'data'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AB90)
+Pop namespace binding (level=1) 'ns4'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AB30)
+Pop namespace binding (level=1) 'search'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A530)
+Pop namespace binding (level=1) 'ns3'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AD70)
+Pop namespace binding (level=1) 'reporting'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AD10)
+Pop namespace binding (level=1) 'ns2'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34C810)
+Pop namespace binding (level=1) 'browse'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435ADD0)
+Pop namespace binding (level=1) 'ns1'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A7D0)
+Pop namespace binding (level=1) 'grt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A9B0)
+Pop namespace binding (level=1) 'gbt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A3B0)
+Pop namespace binding (level=1) 'xsd'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(0000000049E9AB20)
+Pop namespace binding (level=1) 'xsi'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A590)
+Pop namespace binding (level=1) 'SOAP-ENC'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A5F0)
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AA70)
+End of count phase
+Connect/reconnect to host='servicelayer.inventor.gateway.grantadesign.com' path='/mi_servicelayer/Browse.svc' port=80
+Opening socket 6860 to host='servicelayer.inventor.gateway.grantadesign.com' port=80
+Host name not found
+soap_instantiate_SOAP_ENV__Fault(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 00000000493C83B0
+Instantiated location=0000000049E9AB20
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(48) = 00000000491B4140
+Close socket 6860
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7400): free(00000000493C83B0)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8006): free(00000000491B7C00)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8007): free(0000000049E9AB70)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8029): free(0000000049DD5180)
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7345): free(00000000491B4140)
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5067): free(000000005435AC50)
+Free logfiles
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1720)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1600)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F17E0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F17E0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1600
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1720
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 000000005435A530
+Reinitializing context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free namespace stack
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(544) = 0000000049DD5180
+Begin count phase (socket=-1 mode=0x30008 count=0)
+Element begin tag='SOAP-ENV:Envelope' id='0' type=''
+Attribute 'xmlns:SOAP-ENV'='http://schemas.xmlsoap.org/soap/envelope/'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435ADD0
+Attribute 'xmlns:SOAP-ENC'='http://www.w3.org/2003/05/soap-encoding'
+Adding namespace binding (level=1) 'SOAP-ENC' 'http://www.w3.org/2003/05/soap-encoding' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435A5F0
+Attribute 'xmlns:xsi'='http://www.w3.org/2001/XMLSchema-instance'
+Adding namespace binding (level=1) 'xsi' 'http://www.w3.org/2001/XMLSchema-instance' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(77) = 000000005435AB90
+Attribute 'xmlns:xsd'='http://www.w3.org/2001/XMLSchema'
+Adding namespace binding (level=1) 'xsd' 'http://www.w3.org/2001/XMLSchema' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(68) = 0000000049E9ACB0
+Attribute 'xmlns:gbt'='http://www.grantadesign.com/10/06/GrantaBaseTypes'
+Adding namespace binding (level=1) 'gbt' 'http://www.grantadesign.com/10/06/GrantaBaseTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435AB30
+Attribute 'xmlns:grt'='http://www.grantadesign.com/10/06/GrantaReportTypes'
+Adding namespace binding (level=1) 'grt' 'http://www.grantadesign.com/10/06/GrantaReportTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(87) = 000000005435AD10
+Attribute 'xmlns:ns1'='http://www.grantadesign.com/10/06/Browse1006'
+Adding namespace binding (level=1) 'ns1' 'http://www.grantadesign.com/10/06/Browse1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435AA70
+Attribute 'xmlns:browse'='http://www.grantadesign.com/10/06/Browse'
+Adding namespace binding (level=1) 'browse' 'http://www.grantadesign.com/10/06/Browse' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435AEF0
+Attribute 'xmlns:ns2'='http://www.grantadesign.com/10/06/ReportFormatter1006'
+Adding namespace binding (level=1) 'ns2' 'http://www.grantadesign.com/10/06/ReportFormatter1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34C880
+Attribute 'xmlns:reporting'='http://www.grantadesign.com/10/06/Reporting'
+Adding namespace binding (level=1) 'reporting' 'http://www.grantadesign.com/10/06/Reporting' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435AFB0
+Attribute 'xmlns:ns3'='http://www.grantadesign.com/10/06/Search1006'
+Adding namespace binding (level=1) 'ns3' 'http://www.grantadesign.com/10/06/Search1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435B010
+Attribute 'xmlns:search'='http://www.grantadesign.com/10/06/Search'
+Adding namespace binding (level=1) 'search' 'http://www.grantadesign.com/10/06/Search' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435ACB0
+Attribute 'xmlns:ns4'='http://www.grantadesign.com/10/06/DataExport1006'
+Adding namespace binding (level=1) 'ns4' 'http://www.grantadesign.com/10/06/DataExport1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(84) = 000000005435AAD0
+Attribute 'xmlns:data'='http://www.grantadesign.com/10/06/DataExport'
+Adding namespace binding (level=1) 'data' 'http://www.grantadesign.com/10/06/DataExport' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(81) = 000000005435AE30
+Attribute 'xmlns:eng'='http://www.grantadesign.com/10/06/EngineeringData'
+Adding namespace binding (level=1) 'eng' 'http://www.grantadesign.com/10/06/EngineeringData' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435AE90
+Attribute 'xmlns:ns5'='http://www.grantadesign.com/10/06/EngineeringData1006'
+Adding namespace binding (level=1) 'ns5' 'http://www.grantadesign.com/10/06/EngineeringData1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34C8F0
+Utilizing namespace of 'SOAP-ENV:Envelope'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=1
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435AF50
+Enabling utilized binding (level=1) xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Set attribute xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Allocate attribute xmlns:SOAP-ENV
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9693): malloc(62) = 0000000049E9AD00
+Inserting attribute xmlns:SOAP-ENV for c14n
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9747): malloc(42) = 00000000491B4140
+Allocate attribute value for xmlns:SOAP-ENV (00000000491B4140)
+Element begin tag='SOAP-ENV:Body' id='0' type=''
+Utilizing namespace of 'SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Envelope'
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AF50)
+Pop namespace binding (level=1) 'ns5'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34C8F0)
+Pop namespace binding (level=1) 'eng'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AE90)
+Pop namespace binding (level=1) 'data'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AE30)
+Pop namespace binding (level=1) 'ns4'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AAD0)
+Pop namespace binding (level=1) 'search'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435ACB0)
+Pop namespace binding (level=1) 'ns3'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B010)
+Pop namespace binding (level=1) 'reporting'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AFB0)
+Pop namespace binding (level=1) 'ns2'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34C880)
+Pop namespace binding (level=1) 'browse'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AEF0)
+Pop namespace binding (level=1) 'ns1'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AA70)
+Pop namespace binding (level=1) 'grt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AD10)
+Pop namespace binding (level=1) 'gbt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AB30)
+Pop namespace binding (level=1) 'xsd'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(0000000049E9ACB0)
+Pop namespace binding (level=1) 'xsi'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AB90)
+Pop namespace binding (level=1) 'SOAP-ENC'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A5F0)
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435ADD0)
+End of count phase
+Connect/reconnect to host='servicelayer.inventor.gateway.grantadesign.com' path='/mi_servicelayer/Browse.svc' port=80
+Opening socket 6644 to host='servicelayer.inventor.gateway.grantadesign.com' port=80
+Host name not found
+soap_instantiate_SOAP_ENV__Fault(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 00000000493C8D10
+Instantiated location=0000000049E9ACB0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(48) = 00000000491B80C0
+Close socket 6644
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7400): free(00000000493C8D10)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8006): free(00000000491B4140)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8007): free(0000000049E9AD00)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8029): free(0000000049DD5180)
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7345): free(00000000491B80C0)
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5067): free(000000005435A530)
+Free logfiles
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1720)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1600)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F17E0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1600
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1720
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1540
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 000000005435A170
+Reinitializing context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free namespace stack
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(544) = 0000000049DD5180
+Begin count phase (socket=-1 mode=0x30008 count=0)
+Element begin tag='SOAP-ENV:Envelope' id='0' type=''
+Attribute 'xmlns:SOAP-ENV'='http://schemas.xmlsoap.org/soap/envelope/'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435AA70
+Attribute 'xmlns:SOAP-ENC'='http://www.w3.org/2003/05/soap-encoding'
+Adding namespace binding (level=1) 'SOAP-ENC' 'http://www.w3.org/2003/05/soap-encoding' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435A5F0
+Attribute 'xmlns:xsi'='http://www.w3.org/2001/XMLSchema-instance'
+Adding namespace binding (level=1) 'xsi' 'http://www.w3.org/2001/XMLSchema-instance' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(77) = 000000005435AD10
+Attribute 'xmlns:xsd'='http://www.w3.org/2001/XMLSchema'
+Adding namespace binding (level=1) 'xsd' 'http://www.w3.org/2001/XMLSchema' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(68) = 0000000049598090
+Attribute 'xmlns:gbt'='http://www.grantadesign.com/10/06/GrantaBaseTypes'
+Adding namespace binding (level=1) 'gbt' 'http://www.grantadesign.com/10/06/GrantaBaseTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435AEF0
+Attribute 'xmlns:grt'='http://www.grantadesign.com/10/06/GrantaReportTypes'
+Adding namespace binding (level=1) 'grt' 'http://www.grantadesign.com/10/06/GrantaReportTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(87) = 000000005435AAD0
+Attribute 'xmlns:ns1'='http://www.grantadesign.com/10/06/Browse1006'
+Adding namespace binding (level=1) 'ns1' 'http://www.grantadesign.com/10/06/Browse1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435AE30
+Attribute 'xmlns:browse'='http://www.grantadesign.com/10/06/Browse'
+Adding namespace binding (level=1) 'browse' 'http://www.grantadesign.com/10/06/Browse' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435AE90
+Attribute 'xmlns:ns2'='http://www.grantadesign.com/10/06/ReportFormatter1006'
+Adding namespace binding (level=1) 'ns2' 'http://www.grantadesign.com/10/06/ReportFormatter1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34BC40
+Attribute 'xmlns:reporting'='http://www.grantadesign.com/10/06/Reporting'
+Adding namespace binding (level=1) 'reporting' 'http://www.grantadesign.com/10/06/Reporting' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435B0D0
+Attribute 'xmlns:ns3'='http://www.grantadesign.com/10/06/Search1006'
+Adding namespace binding (level=1) 'ns3' 'http://www.grantadesign.com/10/06/Search1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435B070
+Attribute 'xmlns:search'='http://www.grantadesign.com/10/06/Search'
+Adding namespace binding (level=1) 'search' 'http://www.grantadesign.com/10/06/Search' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435A9B0
+Attribute 'xmlns:ns4'='http://www.grantadesign.com/10/06/DataExport1006'
+Adding namespace binding (level=1) 'ns4' 'http://www.grantadesign.com/10/06/DataExport1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(84) = 000000005435A710
+Attribute 'xmlns:data'='http://www.grantadesign.com/10/06/DataExport'
+Adding namespace binding (level=1) 'data' 'http://www.grantadesign.com/10/06/DataExport' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(81) = 000000005435A650
+Attribute 'xmlns:eng'='http://www.grantadesign.com/10/06/EngineeringData'
+Adding namespace binding (level=1) 'eng' 'http://www.grantadesign.com/10/06/EngineeringData' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435AF50
+Attribute 'xmlns:ns5'='http://www.grantadesign.com/10/06/EngineeringData1006'
+Adding namespace binding (level=1) 'ns5' 'http://www.grantadesign.com/10/06/EngineeringData1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34C960
+Utilizing namespace of 'SOAP-ENV:Envelope'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=1
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435B130
+Enabling utilized binding (level=1) xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Set attribute xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Allocate attribute xmlns:SOAP-ENV
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9693): malloc(62) = 0000000049595C50
+Inserting attribute xmlns:SOAP-ENV for c14n
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9747): malloc(42) = 000000002C18FCA0
+Allocate attribute value for xmlns:SOAP-ENV (000000002C18FCA0)
+Element begin tag='SOAP-ENV:Body' id='0' type=''
+Utilizing namespace of 'SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Envelope'
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B130)
+Pop namespace binding (level=1) 'ns5'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34C960)
+Pop namespace binding (level=1) 'eng'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AF50)
+Pop namespace binding (level=1) 'data'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A650)
+Pop namespace binding (level=1) 'ns4'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A710)
+Pop namespace binding (level=1) 'search'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A9B0)
+Pop namespace binding (level=1) 'ns3'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B070)
+Pop namespace binding (level=1) 'reporting'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B0D0)
+Pop namespace binding (level=1) 'ns2'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34BC40)
+Pop namespace binding (level=1) 'browse'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AE90)
+Pop namespace binding (level=1) 'ns1'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AE30)
+Pop namespace binding (level=1) 'grt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AAD0)
+Pop namespace binding (level=1) 'gbt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AEF0)
+Pop namespace binding (level=1) 'xsd'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(0000000049598090)
+Pop namespace binding (level=1) 'xsi'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AD10)
+Pop namespace binding (level=1) 'SOAP-ENC'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A5F0)
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AA70)
+End of count phase
+Connect/reconnect to host='servicelayer.inventor.gateway.grantadesign.com' path='/mi_servicelayer/Browse.svc' port=80
+Opening socket 7212 to host='servicelayer.inventor.gateway.grantadesign.com' port=80
+Host name not found
+soap_instantiate_SOAP_ENV__Fault(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 00000000493C8200
+Instantiated location=00000000495978C0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(48) = 000000002C1928A0
+Close socket 7212
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7400): free(00000000493C8200)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8006): free(000000002C18FCA0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8007): free(0000000049595C50)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8029): free(0000000049DD5180)
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7345): free(000000002C1928A0)
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5067): free(000000005435A170)
+Free logfiles
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1540)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1720)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1600)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1600
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1720
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1540
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 000000005435AD10
+Reinitializing context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free namespace stack
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(544) = 0000000049DD5180
+Begin count phase (socket=-1 mode=0x30008 count=0)
+Element begin tag='SOAP-ENV:Envelope' id='0' type=''
+Attribute 'xmlns:SOAP-ENV'='http://schemas.xmlsoap.org/soap/envelope/'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435AE30
+Attribute 'xmlns:SOAP-ENC'='http://www.w3.org/2003/05/soap-encoding'
+Adding namespace binding (level=1) 'SOAP-ENC' 'http://www.w3.org/2003/05/soap-encoding' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435AE90
+Attribute 'xmlns:xsi'='http://www.w3.org/2001/XMLSchema-instance'
+Adding namespace binding (level=1) 'xsi' 'http://www.w3.org/2001/XMLSchema-instance' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(77) = 000000005435B0D0
+Attribute 'xmlns:xsd'='http://www.w3.org/2001/XMLSchema'
+Adding namespace binding (level=1) 'xsd' 'http://www.w3.org/2001/XMLSchema' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(68) = 0000000049E9B7A0
+Attribute 'xmlns:gbt'='http://www.grantadesign.com/10/06/GrantaBaseTypes'
+Adding namespace binding (level=1) 'gbt' 'http://www.grantadesign.com/10/06/GrantaBaseTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435B070
+Attribute 'xmlns:grt'='http://www.grantadesign.com/10/06/GrantaReportTypes'
+Adding namespace binding (level=1) 'grt' 'http://www.grantadesign.com/10/06/GrantaReportTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(87) = 000000005435A9B0
+Attribute 'xmlns:ns1'='http://www.grantadesign.com/10/06/Browse1006'
+Adding namespace binding (level=1) 'ns1' 'http://www.grantadesign.com/10/06/Browse1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435A710
+Attribute 'xmlns:browse'='http://www.grantadesign.com/10/06/Browse'
+Adding namespace binding (level=1) 'browse' 'http://www.grantadesign.com/10/06/Browse' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435A650
+Attribute 'xmlns:ns2'='http://www.grantadesign.com/10/06/ReportFormatter1006'
+Adding namespace binding (level=1) 'ns2' 'http://www.grantadesign.com/10/06/ReportFormatter1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34BC40
+Attribute 'xmlns:reporting'='http://www.grantadesign.com/10/06/Reporting'
+Adding namespace binding (level=1) 'reporting' 'http://www.grantadesign.com/10/06/Reporting' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435AF50
+Attribute 'xmlns:ns3'='http://www.grantadesign.com/10/06/Search1006'
+Adding namespace binding (level=1) 'ns3' 'http://www.grantadesign.com/10/06/Search1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435B130
+Attribute 'xmlns:search'='http://www.grantadesign.com/10/06/Search'
+Adding namespace binding (level=1) 'search' 'http://www.grantadesign.com/10/06/Search' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435B190
+Attribute 'xmlns:ns4'='http://www.grantadesign.com/10/06/DataExport1006'
+Adding namespace binding (level=1) 'ns4' 'http://www.grantadesign.com/10/06/DataExport1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(84) = 000000005435B1F0
+Attribute 'xmlns:data'='http://www.grantadesign.com/10/06/DataExport'
+Adding namespace binding (level=1) 'data' 'http://www.grantadesign.com/10/06/DataExport' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(81) = 000000005435B250
+Attribute 'xmlns:eng'='http://www.grantadesign.com/10/06/EngineeringData'
+Adding namespace binding (level=1) 'eng' 'http://www.grantadesign.com/10/06/EngineeringData' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435B2B0
+Attribute 'xmlns:ns5'='http://www.grantadesign.com/10/06/EngineeringData1006'
+Adding namespace binding (level=1) 'ns5' 'http://www.grantadesign.com/10/06/EngineeringData1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34CA40
+Utilizing namespace of 'SOAP-ENV:Envelope'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=1
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435B310
+Enabling utilized binding (level=1) xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Set attribute xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Allocate attribute xmlns:SOAP-ENV
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9693): malloc(62) = 0000000049E9AE40
+Inserting attribute xmlns:SOAP-ENV for c14n
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9747): malloc(42) = 000000002C1928A0
+Allocate attribute value for xmlns:SOAP-ENV (000000002C1928A0)
+Element begin tag='SOAP-ENV:Body' id='0' type=''
+Utilizing namespace of 'SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Envelope'
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B310)
+Pop namespace binding (level=1) 'ns5'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34CA40)
+Pop namespace binding (level=1) 'eng'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B2B0)
+Pop namespace binding (level=1) 'data'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B250)
+Pop namespace binding (level=1) 'ns4'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B1F0)
+Pop namespace binding (level=1) 'search'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B190)
+Pop namespace binding (level=1) 'ns3'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B130)
+Pop namespace binding (level=1) 'reporting'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AF50)
+Pop namespace binding (level=1) 'ns2'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34BC40)
+Pop namespace binding (level=1) 'browse'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A650)
+Pop namespace binding (level=1) 'ns1'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A710)
+Pop namespace binding (level=1) 'grt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A9B0)
+Pop namespace binding (level=1) 'gbt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B070)
+Pop namespace binding (level=1) 'xsd'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(0000000049E9B7A0)
+Pop namespace binding (level=1) 'xsi'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B0D0)
+Pop namespace binding (level=1) 'SOAP-ENC'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AE90)
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AE30)
+End of count phase
+Connect/reconnect to host='servicelayer.inventor.gateway.grantadesign.com' path='/mi_servicelayer/Browse.svc' port=80
+Opening socket 7760 to host='servicelayer.inventor.gateway.grantadesign.com' port=80
+Host name not found
+soap_instantiate_SOAP_ENV__Fault(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 00000000493C87D0
+Instantiated location=0000000049E9B7A0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(48) = 000000002C192960
+Close socket 7760
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7400): free(00000000493C87D0)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8006): free(000000002C1928A0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8007): free(0000000049E9AE40)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8029): free(0000000049DD5180)
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7345): free(000000002C192960)
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5067): free(000000005435AD10)
+Free logfiles
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1540)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1720)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1600)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1720
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1540
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F16C0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 000000005435AE90
+Reinitializing context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free namespace stack
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(544) = 0000000049DD5180
+Begin count phase (socket=-1 mode=0x30008 count=0)
+Element begin tag='SOAP-ENV:Envelope' id='0' type=''
+Attribute 'xmlns:SOAP-ENV'='http://schemas.xmlsoap.org/soap/envelope/'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435A9B0
+Attribute 'xmlns:SOAP-ENC'='http://www.w3.org/2003/05/soap-encoding'
+Adding namespace binding (level=1) 'SOAP-ENC' 'http://www.w3.org/2003/05/soap-encoding' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435A710
+Attribute 'xmlns:xsi'='http://www.w3.org/2001/XMLSchema-instance'
+Adding namespace binding (level=1) 'xsi' 'http://www.w3.org/2001/XMLSchema-instance' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(77) = 000000005435A650
+Attribute 'xmlns:xsd'='http://www.w3.org/2001/XMLSchema'
+Adding namespace binding (level=1) 'xsd' 'http://www.w3.org/2001/XMLSchema' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(68) = 0000000049E9B4D0
+Attribute 'xmlns:gbt'='http://www.grantadesign.com/10/06/GrantaBaseTypes'
+Adding namespace binding (level=1) 'gbt' 'http://www.grantadesign.com/10/06/GrantaBaseTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435AF50
+Attribute 'xmlns:grt'='http://www.grantadesign.com/10/06/GrantaReportTypes'
+Adding namespace binding (level=1) 'grt' 'http://www.grantadesign.com/10/06/GrantaReportTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(87) = 000000005435B130
+Attribute 'xmlns:ns1'='http://www.grantadesign.com/10/06/Browse1006'
+Adding namespace binding (level=1) 'ns1' 'http://www.grantadesign.com/10/06/Browse1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435B190
+Attribute 'xmlns:browse'='http://www.grantadesign.com/10/06/Browse'
+Adding namespace binding (level=1) 'browse' 'http://www.grantadesign.com/10/06/Browse' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435B1F0
+Attribute 'xmlns:ns2'='http://www.grantadesign.com/10/06/ReportFormatter1006'
+Adding namespace binding (level=1) 'ns2' 'http://www.grantadesign.com/10/06/ReportFormatter1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34BC40
+Attribute 'xmlns:reporting'='http://www.grantadesign.com/10/06/Reporting'
+Adding namespace binding (level=1) 'reporting' 'http://www.grantadesign.com/10/06/Reporting' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435B250
+Attribute 'xmlns:ns3'='http://www.grantadesign.com/10/06/Search1006'
+Adding namespace binding (level=1) 'ns3' 'http://www.grantadesign.com/10/06/Search1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435B2B0
+Attribute 'xmlns:search'='http://www.grantadesign.com/10/06/Search'
+Adding namespace binding (level=1) 'search' 'http://www.grantadesign.com/10/06/Search' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435B310
+Attribute 'xmlns:ns4'='http://www.grantadesign.com/10/06/DataExport1006'
+Adding namespace binding (level=1) 'ns4' 'http://www.grantadesign.com/10/06/DataExport1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(84) = 000000005435B370
+Attribute 'xmlns:data'='http://www.grantadesign.com/10/06/DataExport'
+Adding namespace binding (level=1) 'data' 'http://www.grantadesign.com/10/06/DataExport' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(81) = 000000005435B3D0
+Attribute 'xmlns:eng'='http://www.grantadesign.com/10/06/EngineeringData'
+Adding namespace binding (level=1) 'eng' 'http://www.grantadesign.com/10/06/EngineeringData' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435B430
+Attribute 'xmlns:ns5'='http://www.grantadesign.com/10/06/EngineeringData1006'
+Adding namespace binding (level=1) 'ns5' 'http://www.grantadesign.com/10/06/EngineeringData1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34CA40
+Utilizing namespace of 'SOAP-ENV:Envelope'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=1
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435B490
+Enabling utilized binding (level=1) xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Set attribute xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Allocate attribute xmlns:SOAP-ENV
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9693): malloc(62) = 0000000049E9B750
+Inserting attribute xmlns:SOAP-ENV for c14n
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9747): malloc(42) = 000000002C192960
+Allocate attribute value for xmlns:SOAP-ENV (000000002C192960)
+Element begin tag='SOAP-ENV:Body' id='0' type=''
+Utilizing namespace of 'SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Envelope'
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B490)
+Pop namespace binding (level=1) 'ns5'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34CA40)
+Pop namespace binding (level=1) 'eng'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B430)
+Pop namespace binding (level=1) 'data'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B3D0)
+Pop namespace binding (level=1) 'ns4'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B370)
+Pop namespace binding (level=1) 'search'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B310)
+Pop namespace binding (level=1) 'ns3'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B2B0)
+Pop namespace binding (level=1) 'reporting'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B250)
+Pop namespace binding (level=1) 'ns2'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34BC40)
+Pop namespace binding (level=1) 'browse'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B1F0)
+Pop namespace binding (level=1) 'ns1'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B190)
+Pop namespace binding (level=1) 'grt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B130)
+Pop namespace binding (level=1) 'gbt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435AF50)
+Pop namespace binding (level=1) 'xsd'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(0000000049E9B4D0)
+Pop namespace binding (level=1) 'xsi'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A650)
+Pop namespace binding (level=1) 'SOAP-ENC'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A710)
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A9B0)
+End of count phase
+Connect/reconnect to host='servicelayer.inventor.gateway.grantadesign.com' path='/mi_servicelayer/Browse.svc' port=80
+Opening socket 7760 to host='servicelayer.inventor.gateway.grantadesign.com' port=80
+Host name not found
+soap_instantiate_SOAP_ENV__Fault(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 00000000493C83B0
+Instantiated location=0000000049E9B4D0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(48) = 000000002C1928A0
+Close socket 7760
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7400): free(00000000493C83B0)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8006): free(000000002C192960)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8007): free(0000000049E9B750)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8029): free(0000000049DD5180)
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7345): free(000000002C1928A0)
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5067): free(000000005435AE90)
+Free logfiles
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F16C0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1540)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1720)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1600
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1540
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F16C0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 000000005435A710
+Reinitializing context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free namespace stack
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(544) = 0000000049DD5180
+Begin count phase (socket=-1 mode=0x30008 count=0)
+Element begin tag='SOAP-ENV:Envelope' id='0' type=''
+Attribute 'xmlns:SOAP-ENV'='http://schemas.xmlsoap.org/soap/envelope/'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435B130
+Attribute 'xmlns:SOAP-ENC'='http://www.w3.org/2003/05/soap-encoding'
+Adding namespace binding (level=1) 'SOAP-ENC' 'http://www.w3.org/2003/05/soap-encoding' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435B190
+Attribute 'xmlns:xsi'='http://www.w3.org/2001/XMLSchema-instance'
+Adding namespace binding (level=1) 'xsi' 'http://www.w3.org/2001/XMLSchema-instance' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(77) = 000000005435B1F0
+Attribute 'xmlns:xsd'='http://www.w3.org/2001/XMLSchema'
+Adding namespace binding (level=1) 'xsd' 'http://www.w3.org/2001/XMLSchema' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(68) = 0000000049E9AF80
+Attribute 'xmlns:gbt'='http://www.grantadesign.com/10/06/GrantaBaseTypes'
+Adding namespace binding (level=1) 'gbt' 'http://www.grantadesign.com/10/06/GrantaBaseTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435B250
+Attribute 'xmlns:grt'='http://www.grantadesign.com/10/06/GrantaReportTypes'
+Adding namespace binding (level=1) 'grt' 'http://www.grantadesign.com/10/06/GrantaReportTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(87) = 000000005435B2B0
+Attribute 'xmlns:ns1'='http://www.grantadesign.com/10/06/Browse1006'
+Adding namespace binding (level=1) 'ns1' 'http://www.grantadesign.com/10/06/Browse1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435B310
+Attribute 'xmlns:browse'='http://www.grantadesign.com/10/06/Browse'
+Adding namespace binding (level=1) 'browse' 'http://www.grantadesign.com/10/06/Browse' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435B370
+Attribute 'xmlns:ns2'='http://www.grantadesign.com/10/06/ReportFormatter1006'
+Adding namespace binding (level=1) 'ns2' 'http://www.grantadesign.com/10/06/ReportFormatter1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34BC40
+Attribute 'xmlns:reporting'='http://www.grantadesign.com/10/06/Reporting'
+Adding namespace binding (level=1) 'reporting' 'http://www.grantadesign.com/10/06/Reporting' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435B3D0
+Attribute 'xmlns:ns3'='http://www.grantadesign.com/10/06/Search1006'
+Adding namespace binding (level=1) 'ns3' 'http://www.grantadesign.com/10/06/Search1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435B430
+Attribute 'xmlns:search'='http://www.grantadesign.com/10/06/Search'
+Adding namespace binding (level=1) 'search' 'http://www.grantadesign.com/10/06/Search' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435B490
+Attribute 'xmlns:ns4'='http://www.grantadesign.com/10/06/DataExport1006'
+Adding namespace binding (level=1) 'ns4' 'http://www.grantadesign.com/10/06/DataExport1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(84) = 000000005435B4F0
+Attribute 'xmlns:data'='http://www.grantadesign.com/10/06/DataExport'
+Adding namespace binding (level=1) 'data' 'http://www.grantadesign.com/10/06/DataExport' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(81) = 000000005435B550
+Attribute 'xmlns:eng'='http://www.grantadesign.com/10/06/EngineeringData'
+Adding namespace binding (level=1) 'eng' 'http://www.grantadesign.com/10/06/EngineeringData' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435B5B0
+Attribute 'xmlns:ns5'='http://www.grantadesign.com/10/06/EngineeringData1006'
+Adding namespace binding (level=1) 'ns5' 'http://www.grantadesign.com/10/06/EngineeringData1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34CA40
+Utilizing namespace of 'SOAP-ENV:Envelope'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=1
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435B610
+Enabling utilized binding (level=1) xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Set attribute xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Allocate attribute xmlns:SOAP-ENV
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9693): malloc(62) = 0000000049E9B430
+Inserting attribute xmlns:SOAP-ENV for c14n
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9747): malloc(42) = 000000002C1928A0
+Allocate attribute value for xmlns:SOAP-ENV (000000002C1928A0)
+Element begin tag='SOAP-ENV:Body' id='0' type=''
+Utilizing namespace of 'SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Envelope'
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B610)
+Pop namespace binding (level=1) 'ns5'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34CA40)
+Pop namespace binding (level=1) 'eng'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B5B0)
+Pop namespace binding (level=1) 'data'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B550)
+Pop namespace binding (level=1) 'ns4'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B4F0)
+Pop namespace binding (level=1) 'search'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B490)
+Pop namespace binding (level=1) 'ns3'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B430)
+Pop namespace binding (level=1) 'reporting'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B3D0)
+Pop namespace binding (level=1) 'ns2'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34BC40)
+Pop namespace binding (level=1) 'browse'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B370)
+Pop namespace binding (level=1) 'ns1'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B310)
+Pop namespace binding (level=1) 'grt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B2B0)
+Pop namespace binding (level=1) 'gbt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B250)
+Pop namespace binding (level=1) 'xsd'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(0000000049E9AF80)
+Pop namespace binding (level=1) 'xsi'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B1F0)
+Pop namespace binding (level=1) 'SOAP-ENC'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B190)
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B130)
+End of count phase
+Connect/reconnect to host='servicelayer.inventor.gateway.grantadesign.com' path='/mi_servicelayer/Browse.svc' port=80
+Opening socket 7768 to host='servicelayer.inventor.gateway.grantadesign.com' port=80
+Host name not found
+soap_instantiate_SOAP_ENV__Fault(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 00000000493C87D0
+Instantiated location=0000000049E9AF80
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(48) = 000000002C192960
+Close socket 7768
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7400): free(00000000493C87D0)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8006): free(000000002C1928A0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8007): free(0000000049E9B430)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8029): free(0000000049DD5180)
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7345): free(000000002C192960)
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5067): free(000000005435A710)
+Free logfiles
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F16C0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1540)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1600)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F1540
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F16C0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8120): malloc(9) = 00000000491F15A0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8518): malloc(88) = 000000005435AB90
+Reinitializing context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free namespace stack
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8764): malloc(544) = 0000000049DD5180
+Begin count phase (socket=-1 mode=0x30008 count=0)
+Element begin tag='SOAP-ENV:Envelope' id='0' type=''
+Attribute 'xmlns:SOAP-ENV'='http://schemas.xmlsoap.org/soap/envelope/'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 0000000054359E70
+Attribute 'xmlns:SOAP-ENC'='http://www.w3.org/2003/05/soap-encoding'
+Adding namespace binding (level=1) 'SOAP-ENC' 'http://www.w3.org/2003/05/soap-encoding' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435A2F0
+Attribute 'xmlns:xsi'='http://www.w3.org/2001/XMLSchema-instance'
+Adding namespace binding (level=1) 'xsi' 'http://www.w3.org/2001/XMLSchema-instance' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(77) = 000000005435A290
+Attribute 'xmlns:xsd'='http://www.w3.org/2001/XMLSchema'
+Adding namespace binding (level=1) 'xsd' 'http://www.w3.org/2001/XMLSchema' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(68) = 0000000049E9B020
+Attribute 'xmlns:gbt'='http://www.grantadesign.com/10/06/GrantaBaseTypes'
+Adding namespace binding (level=1) 'gbt' 'http://www.grantadesign.com/10/06/GrantaBaseTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435A590
+Attribute 'xmlns:grt'='http://www.grantadesign.com/10/06/GrantaReportTypes'
+Adding namespace binding (level=1) 'grt' 'http://www.grantadesign.com/10/06/GrantaReportTypes' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(87) = 000000005435A5F0
+Attribute 'xmlns:ns1'='http://www.grantadesign.com/10/06/Browse1006'
+Adding namespace binding (level=1) 'ns1' 'http://www.grantadesign.com/10/06/Browse1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435B2B0
+Attribute 'xmlns:browse'='http://www.grantadesign.com/10/06/Browse'
+Adding namespace binding (level=1) 'browse' 'http://www.grantadesign.com/10/06/Browse' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435B250
+Attribute 'xmlns:ns2'='http://www.grantadesign.com/10/06/ReportFormatter1006'
+Adding namespace binding (level=1) 'ns2' 'http://www.grantadesign.com/10/06/ReportFormatter1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34BC40
+Attribute 'xmlns:reporting'='http://www.grantadesign.com/10/06/Reporting'
+Adding namespace binding (level=1) 'reporting' 'http://www.grantadesign.com/10/06/Reporting' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435B310
+Attribute 'xmlns:ns3'='http://www.grantadesign.com/10/06/Search1006'
+Adding namespace binding (level=1) 'ns3' 'http://www.grantadesign.com/10/06/Search1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(80) = 000000005435B370
+Attribute 'xmlns:search'='http://www.grantadesign.com/10/06/Search'
+Adding namespace binding (level=1) 'search' 'http://www.grantadesign.com/10/06/Search' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(79) = 000000005435B3D0
+Attribute 'xmlns:ns4'='http://www.grantadesign.com/10/06/DataExport1006'
+Adding namespace binding (level=1) 'ns4' 'http://www.grantadesign.com/10/06/DataExport1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(84) = 000000005435B430
+Attribute 'xmlns:data'='http://www.grantadesign.com/10/06/DataExport'
+Adding namespace binding (level=1) 'data' 'http://www.grantadesign.com/10/06/DataExport' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(81) = 000000005435B490
+Attribute 'xmlns:eng'='http://www.grantadesign.com/10/06/EngineeringData'
+Adding namespace binding (level=1) 'eng' 'http://www.grantadesign.com/10/06/EngineeringData' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(85) = 000000005435B4F0
+Attribute 'xmlns:ns5'='http://www.grantadesign.com/10/06/EngineeringData1006'
+Adding namespace binding (level=1) 'ns5' 'http://www.grantadesign.com/10/06/EngineeringData1006' utilized=0
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(89) = 000000002C34CC00
+Utilizing namespace of 'SOAP-ENV:Envelope'
+Adding namespace binding (level=1) 'SOAP-ENV' 'http://schemas.xmlsoap.org/soap/envelope/' utilized=1
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8853): malloc(82) = 000000005435B550
+Enabling utilized binding (level=1) xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Set attribute xmlns:SOAP-ENV='http://schemas.xmlsoap.org/soap/envelope/'
+Allocate attribute xmlns:SOAP-ENV
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9693): malloc(62) = 0000000049E9AEE0
+Inserting attribute xmlns:SOAP-ENV for c14n
+..\..\..\..\core\soapInterface\stdsoap2.cpp(9747): malloc(42) = 000000002C192960
+Allocate attribute value for xmlns:SOAP-ENV (000000002C192960)
+Element begin tag='SOAP-ENV:Body' id='0' type=''
+Utilizing namespace of 'SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Body'
+Element ending tag='SOAP-ENV:Envelope'
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B550)
+Pop namespace binding (level=1) 'ns5'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34CC00)
+Pop namespace binding (level=1) 'eng'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B4F0)
+Pop namespace binding (level=1) 'data'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B490)
+Pop namespace binding (level=1) 'ns4'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B430)
+Pop namespace binding (level=1) 'search'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B3D0)
+Pop namespace binding (level=1) 'ns3'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B370)
+Pop namespace binding (level=1) 'reporting'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B310)
+Pop namespace binding (level=1) 'ns2'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000002C34BC40)
+Pop namespace binding (level=1) 'browse'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B250)
+Pop namespace binding (level=1) 'ns1'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435B2B0)
+Pop namespace binding (level=1) 'grt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A5F0)
+Pop namespace binding (level=1) 'gbt'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A590)
+Pop namespace binding (level=1) 'xsd'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(0000000049E9B020)
+Pop namespace binding (level=1) 'xsi'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A290)
+Pop namespace binding (level=1) 'SOAP-ENC'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(000000005435A2F0)
+Pop namespace binding (level=1) 'SOAP-ENV'
+..\..\..\..\core\soapInterface\stdsoap2.cpp(2733): free(0000000054359E70)
+End of count phase
+Connect/reconnect to host='servicelayer.inventor.gateway.grantadesign.com' path='/mi_servicelayer/Browse.svc' port=80
+Opening socket 7904 to host='servicelayer.inventor.gateway.grantadesign.com' port=80
+Host name not found
+soap_instantiate_SOAP_ENV__Fault(-1, , )
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7470): malloc(32) = 00000000493C8230
+Instantiated location=0000000049E9B020
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7188): malloc(48) = 000000002C1927A0
+Close socket 7904
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7400): free(00000000493C8230)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8006): free(000000002C192960)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8007): free(0000000049E9AEE0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(8029): free(0000000049DD5180)
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+..\..\..\..\core\soapInterface\stdsoap2.cpp(7345): free(000000002C1927A0)
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5067): free(000000005435AB90)
+Free logfiles
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F15A0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F16C0)
+..\..\..\..\core\soapInterface\stdsoap2.cpp(5079): free(00000000491F1540)
